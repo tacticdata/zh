@@ -43,7 +43,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      show_sidebar: true
+      show_sidebar: false
   -
     scope:
       path: ""
@@ -52,7 +52,7 @@ defaults:
       author: "C.S. Rhymes"
       layout: post
       image: https://via.placeholder.com/1200x800
-      show_sidebar: true
+      show_sidebar: false
 
 markdown: kramdown
 highlighter: rouge
