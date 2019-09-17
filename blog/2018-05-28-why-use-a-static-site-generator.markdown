@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Why use a static site generator"
 date:   2018-05-28 10:50:07
 categories: development
