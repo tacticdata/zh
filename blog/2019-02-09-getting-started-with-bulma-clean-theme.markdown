@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Getting started with Bulma Clean Theme for Jekyll"
 date:   2019-02-09 20:00:07
 categories: development
