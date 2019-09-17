@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Introducing some new layouts to Bulma Clean Theme"
 date:   2019-07-23 08:00:07
 description: "Introducing Product Pages and Landing Pages for Bulma Clean Theme"
