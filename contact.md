@@ -2,7 +2,7 @@
 title: Page With Sidebar
 subtitle: A demo page with a sidebar
 layout: page
-show_sidebar: true
+hide_hero: true
 ---
 
 This is a demo page showing the sidebar.
