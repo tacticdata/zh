@@ -19,3 +19,5 @@
   link: /contact/
 - name: Blog
   link: /blog/
+- name: Docs
+  link: https://tacticdata.readthedocs.io/en/latest
