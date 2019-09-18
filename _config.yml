@@ -1,6 +1,6 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
+title: Data Tactic #Bulma Clean Theme
+tagline: #Bulma Clean Theme
 email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
@@ -57,7 +57,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
-footer_menu: example_footer_menu
+# footer_menu: example_footer_menu
 
 collections:
   products: 
