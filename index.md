@@ -2,8 +2,10 @@
 title: Bulma Clean Theme
 subtitle: This is the demo site for Bulma Clean Theme
 layout: page
+hero_image: 'https://www.csrhymes.com/img/landing-page.jpg'
+hero_height: is-large
+published: true
 callouts: home_callouts
-show_sidebar: false
 ---
 
 # Bulma Clean Theme demo website
