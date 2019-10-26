@@ -3,7 +3,6 @@ title: Bulma Clean Theme
 subtitle: Web Demo Site
 layout: page
 hero_image: /img/sitev1.0/home.jpg
-hero_height: is-large
 published: true
 callouts: home_callouts
 ---
