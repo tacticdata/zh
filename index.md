@@ -1,11 +1,11 @@
 ---
-title: Bulma Clean Theme
+title: 数字化提升竞争力
 subtitle: Web Demo Site
 layout: page
 hero_image: /img/sitev1.0/home.jpg
 published: true
-callouts: home_callouts
 ---
+<!-- callouts: home_callouts -->
 
 # Bulma Clean Theme demo website
 
