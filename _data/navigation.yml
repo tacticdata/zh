@@ -16,7 +16,7 @@
 #    - name: Landing Page With Callouts
 #      link: /landing/
 - name: 首页
-  link: /zh_CN/
+  link: /index-zh/
 - name: Contact
   link: /contact/
 - name: Blog
