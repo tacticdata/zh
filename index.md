@@ -1,8 +1,8 @@
 ---
-title: 数字化提升竞争力
-subtitle: Web Demo Site
+title: 数据帮助管理
+subtitle: 云计算、开源ERP、数据使用方法，为企业提供一种低价数字化选择。
 layout: page
-hero_image: /img/sitev1.0/home.jpg
+hero_image: /img/sitev1.0/homecn.png
 published: true
 ---
 <!-- callouts: home_callouts -->
