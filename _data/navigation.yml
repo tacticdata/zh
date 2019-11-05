@@ -15,8 +15,8 @@
 #      link: /page-without-hero/
 #    - name: Landing Page With Callouts
 #      link: /landing/
-#- name: 首页
-# link: /zh_CN/
+- name: 首页
+  link: /zh_CN/
 - name: Contact
   link: /contact/
 - name: Blog
