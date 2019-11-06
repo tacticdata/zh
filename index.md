@@ -49,8 +49,8 @@ We first installed in 2012 on linode.com, start production use from October, 201
 - Manager will get full access to their data realtime.
 - Owner know how to use data, and manage to use data increase their competetiveness.
 
- More to [review](/erp-demo/)
+ More to [review](/bulma/erp-demo/)
 
 ### USD3000
 
-Go To [Contact Us](/contact/) if you are interested...
+Go To [Contact Us](/bulma/contact/) if you are interested...
