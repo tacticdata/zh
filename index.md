@@ -7,8 +7,6 @@ published: true
 ---
 <!-- callouts: home_callouts -->
 
-![](/img/sitev1.0/homecn.jpg)
-
 # Bulma Clean Theme demo website
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
