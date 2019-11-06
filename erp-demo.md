@@ -23,4 +23,4 @@ hide_hero: true
 
 ### Reporting
 
-![数据分析](/img/erp-demo/reporting-jon.jpg)
+![数据分析](/img/erp-demo/report-jon.jpg)
