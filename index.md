@@ -23,7 +23,7 @@ Website and erp are different role in company digitalization, website often act 
 
 ERP goes similar way, because erp is internal application, it will not connect Google Analytics, it has data analyse feature, in Odoo UI, go to 'Reporting' , there you will find data analysis, it usually use only one or two filters to quiry data, for example, today's sales on different locations, best sale item, that also means data use is simple,  cloud implyment means you can know your business realtime. ERP is fundamantal to today's company digitalization.
 
-#### Technology
+##### Technology
 
 We use cloud server alone with Open Source applications like operating system Linux, docker containers, database to ERP Odoo, a line of Open Source applications to save license cost.
 
@@ -33,7 +33,7 @@ We use cloud server alone with Open Source applications like operating system Li
 4. Database is PostgreSQL,free Open Source database.
 5. ERP our choice  is open Source ERP Odoo 
 
-#### Practice
+##### Practice
 
 1. The technology progress provide the envoroiment
 
@@ -43,7 +43,7 @@ Cloud and Open Source provide the posivilities, and  crucial, demands in cloud s
 
 We first installed in 2012 on linode.com, start production use from October, 2013. Then shift cloud provider to Ali Cloud in 2015, now it run under a cloud server in AWS Beijing, it is running under docker container after update to AWS after March 2017.
 
-#### What you get
+##### What you get
 
 - A full function erp, user has choice from POS (Point of Sales) for sales locations or web interface.
 - Manager will get full access to their data realtime.
