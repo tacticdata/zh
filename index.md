@@ -23,7 +23,7 @@ Website and erp are different role in company digitalization, website often act 
 
 ERP goes similar way, because erp is internal application, it will not connect Google Analytics, it has data analyse feature, in Odoo UI, go to 'Reporting' , there you will find data analysis, it usually use only one or two filters to quiry data, for example, today's sales on different locations, best sale item, that also means data use is simple,  cloud implyment means you can know your business realtime. ERP is fundamantal to today's company digitalization.
 
-##### Technology
+###### Technology
 
 We use cloud server alone with Open Source applications like operating system Linux, docker containers, database to ERP Odoo, a line of Open Source applications to save license cost.
 
