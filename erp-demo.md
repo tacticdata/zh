@@ -9,9 +9,11 @@ hide_hero: true
 
 ### 定制前后的变化
 
+![ 定制不显示字段](/img/erp-demo/order-admin.jpg)
+
 ### Sale
 
-![销售订单]()
+![销售订单](/img/erp-demo/order-jon.jpg)
 
 ### Purchase
 
