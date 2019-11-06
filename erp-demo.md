@@ -6,8 +6,6 @@ hide_hero: true
 
 ## 得到什么？
 
-![](/img/sitev1.0/homecn.jpg)
-
 ### 定制前后的变化
 
 ![ 定制不显示字段](/img/erp-demo/sales-admin.jpg)
