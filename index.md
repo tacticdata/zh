@@ -2,7 +2,7 @@
 title: Data Guidance Management
 subtitle: Affordable Solution For Company with Cloud, Open Source and Data
 layout: page
-hero_image: /img/sitev1.0/home06.jpg
+hero_image: /img/sitev1.0/home.jpg
 published: true
 ---
 <!-- callouts: home_callouts -->
