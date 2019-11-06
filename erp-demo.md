@@ -6,7 +6,7 @@ hide_hero: true
 
 ## 得到什么？
 
-!(/img/sitev1.0/homecn.jpg)
+![](/img/sitev1.0/homecn.jpg)
 
 ### 定制前后的变化
 
