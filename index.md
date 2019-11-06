@@ -15,7 +15,7 @@ Website and ERP combined provide digital companies need, we presume that you hav
 
 Digitalization is a sales term, compare to traditional business we get used to, digital a company means turn to visible to metrics represent your business,  this way freed the ability of management, either from competation pespective or from management, you have to increase your management or competetiveness.
 
-Cloud and Open Source are answer to low priced ERP deployment, to use data,  you have to own data first, that is where binesness applications come in, data is crucial to our business but not software, we have to know how to use it.  But how to use lead to differ when companies face competitions.
+Cloud and Open Source are answer to low priced ERP deployment, to use data,  you have to own data first, that is where binesness applications come in, data is crucial to our business but not software, we have to know how to use it. 
 
 ### How to use data
 
