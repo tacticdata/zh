@@ -10,7 +10,7 @@ hide_hero: true
 
 ### 定制前后的变化
 
-![ 定制不显示字段](/img/erp-demo/order-admin.jpg)
+![ 定制不显示字段](/img/erp-demo/sales-admin.jpg)
 
 ### Sale
 
