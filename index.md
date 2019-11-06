@@ -29,7 +29,7 @@ We use cloud server alone with Open Source applications like operating system Li
 
 1. Cloud server we use AWS EC2
 2. Operating system we use Ubuntu Linux
-3. docker container installed
+3. Docker container installed
 4. Database is PostgreSQL,free Open Source database.
 5. ERP our choice  is open Source ERP Odoo 
 
