@@ -6,6 +6,7 @@ hide_hero: true
 
 ## 得到什么？
 
+!(/img/sitev1.0/homecn.jpg)
 
 ### 定制前后的变化
 
@@ -17,11 +18,11 @@ hide_hero: true
 
 ### Purchase
 
-![采购订单]()
+![采购订单](/img/erp-demo/purchase-jon.jpg)
 
 ### Warehouse
-![库存]()
+![库存](/img/erp-demo/ware-jon.jpg)
 
 ### Reporting
 
-![数据分析]()
+![数据分析](/img/erp-demo/reporting-jon.jpg)
