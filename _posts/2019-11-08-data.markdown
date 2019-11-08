@@ -1,14 +1,11 @@
 ---
 layout: post
 title:  "认识数据"
-date:   2019-07-23 08:00:07
+date:   2019-11-08
 description: "认识数据"
-hero_image: 'https://www.csrhymes.com/img/landing-page.jpg'
-hero_height: is-large
 published: true
-show_sidebar: false
-published: true
-tags: webdev showdev webdesign
+hide_hero: true
+tags: development
 canonical_url: https://https://tacticdata.github.io/bulma/development/2019/11/08/data.html
 ---
 
