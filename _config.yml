@@ -1,10 +1,10 @@
 # Site Settings
-title: Data Tactic #Bulma Clean Theme
+title: Tactic Data  #Bulma Clean Theme
 tagline: #Bulma Clean Theme
 email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma"
+baseurl: ""
 url: "https://tacticdata.github.io"
 permalink: pretty
 
