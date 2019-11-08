@@ -7,7 +7,7 @@ description: "隐私是数字时代的基石"
 show_sidebar: false
 hide_hero: true
 published: true
-canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
+canonical_url: https://www.tacticdata.github.io/development/2019/11/08/privacy.html
 ---
 
 最近，读了两篇关于隐私的文章，很有启发。
