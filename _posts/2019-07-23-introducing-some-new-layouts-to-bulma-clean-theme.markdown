@@ -1,166 +1,35 @@
 ---
 layout: post
-title:  "Introducing some new layouts to Bulma Clean Theme"
+title:  "认识数据"
 date:   2019-07-23 08:00:07
-description: "Introducing Product Pages and Landing Pages for Bulma Clean Theme"
+description: "认识数据"
 hero_image: 'https://www.csrhymes.com/img/landing-page.jpg'
 hero_height: is-large
 published: true
 show_sidebar: false
 published: true
 tags: webdev showdev webdesign
-canonical_url: https://www.csrhymes.com/2019/07/23/introducing-some-new-layouts-to-bulma-clean-theme.html
+canonical_url: https://https://tacticdata.github.io/bulma/development/2019/11/08/data.html
 ---
 
+###### 为什么要使用数据
 
-I’ve been meaning to write about some of the new features I have been rolling out to my Jekyll theme, [Bulma Clean Theme](https://www.csrhymes.com/bulma-clean-theme/), for a while but I have only just managed to push the update for the landing page layout last weekend. This article provides some of the thinking behind the updates, as well as a brief introduction to how to get started. 
+Internet导致竞争加剧，而武器就是提高竞争力。假设我们认为了解消费者代表竞争力的高低，遵循这样的逻辑：更好了解消费者的品好，用在改进产品上，就能更好的提高竞争能力，而更好的了解消费者，数据为我们提供了可能性。
 
-## Product Pages
+网站和ERP提供了驱动企业所需的数据，怎样使用数据，决定我们想成为怎样的企业。反之亦然。企业的领导者对销售渠道的选择，市场定位，组织形式这些问题的考量成为数据怎样使用首先需要考虑的问题。即管理者对企业的方向考虑优先于数据使用，并引导数据的使用。
 
-I use the theme to power my own personal website and decided that it would be good to update my [book pages](https://www.csrhymes.com/books), or book page as it was then. The page had used a very simple layout with both books on one page and was not really up to scratch. I decided it would be better to make each book its own page, and if I ever get round to it and write another book it would be easy to add another to the site in the future. Rather than just building these pages for my own site, I thought it would be a nice addition to the base theme. 
+网站在销售中的作用更重要些，基本思路如下： 了解消费者品好引导我们通过销售活动让消费者告诉我们品好，通过分析消费者访问网站的数据了解消费者的品好。比如，与历史记录对比购买率上升，网站广告页访问量上升对于渠道选择和广告设计意味什么，如何解读诸如此类。
 
-I really like Jekyll as it is simple to use, but also very powerful. I decided to make the most of the frontmatter and allow you to set most of the product information in there, leaving the main content of the page for the text description. 
+ERP的作用如下：数字时代需要一种替代传统以人在现场监工的管理方式，我们称之为数字化。即以数字表达企业状态，或者说以数字指标表示企业状态，由于ERP记录企业的主要业务过程，ERP的数据用起来更直观。
 
-To get started, create your product pages inside a `_products` directory as we will make use of collections later on.  
+###### 网站在销售中的作用
 
-The below is an example of the frontmatter for the product page. The product page uses the same hero, title and subtitle settings as other pages, but has additional settings for product code, image, price, rating and features. The product code is important for later on. 
+网站在销售中的应用，是以活动的形式出现的，活动可理解为一次广告，一次信息发布会，甚至一次招待会，一次促销活动，企业管理者对销售渠道的选择决定企业的竞争力。比如以广告发布为例，企业要发布广告扩大销售，最重要落在广告是否转化为销售。数据如何在其中起作用？
 
-```yml
----
-title: Product 1 Name
-subtitle: Product 1 tagline here
-description: This is a product description
-hero_image: /img/hero-img.jpg
-product_code: ABC124
-layout: product
-image: https://via.placeholder.com/640x480
-price: £1.99 + VAT
-features:
-    - label: Great addition to any home
-      icon: fa-location-arrow
-    - label: Comes in a range of styles
-      icon: fa-grin-stars
-    - label: Available in multiple sizes
-      icon: fa-fighter-jet
-rating: 3
----
-```
+首先是看信息的路径，广告发布到消费者 --> 发布者希望消费者了解活动细节，通常解释通过网站发布 --> 发布者希望消费者能够把广告吸引力转化为销售 --> 销售具体数量反映在ERP上。
 
-The features provides a way of making a bullet point list of the key product features, but instead of plain disc bullet points you can use font awesome icons to make it a bit more interesting. 
+广告发布者希望了解渠道选择是否合适？ 媒体发布机构选择是否合适？广告内容是否合适？销售是否合适？这些问题需要通过数据来回答，数据是这样工作的： 广告的详细内容作为网站的landing page，网站与数据分析连接，对比历史数据，借以判断广告效果，比如，我希望消费者対广告感兴趣，通过观看landing page的数据，在这里数据分析工具我选用Google Analytics（她数据全而且是免费）， 通过对比历史数据得知，广告效果达到预期，如果效果不理想，一个对策是细调广告内容使之更具吸引力，另一个对策是发布渠道选择不合适，以上不管是哪一种，方法都与上述相仿，需要与历史数据对比，所以历史数据很重要。
 
-I don’t know about you, but sometimes I spend longer deciding on what icon to use than making the rest of the page. 
+対效果的评判是通过网站的数据分析工具做到的，网站不直接提供数据，需要借助数据分析工具才能了解数据工作的详情。社交媒体、活动通知，即时通讯渠道都是类似方法，要以数据评价销售活动的效果，数据分析实际是与历史数据对比借以评价活动效果的活动。
 
-I’ve deliberately made the product pages have a 4 by 3 image ratio as I feel it works best across different screen sizes. Like all themes, if you want to change it you can override the default layouts if you want a different ratio. 
-
-Once you have created your product pages, you will need to tell Jekyll to output them. This is done by adding collections settings in the `_config.yml` for your site. 
-
-```yml
-collections:
-  products: 
-    output: true
-    layout: product
-    image: https://via.placeholder.com/800x600
-    show_sidebar: false
-```
-
-Now when you run jekyll build it will output a load of product pages for you, now we just need a way of getting to them. This is where the product category page comes in. 
-
-## Product Category
-
-Create a page, such as products.md or in my case books.md and set it to use the product-category layout. This will generate a list of the products, but you can also add some introduction content in the main content section of the page if you so desire. 
-
-```yml
----
-title: Products
-subtitle: Check out our range of products
-layout: product-category
-show_sidebar: false
-sort: title
----
-
-
-This is some page content and it will appear above the product list.
-```
-
-## Product Reviews
-
-The last addition to the product pages is reviews. If you would like to list some customer reviews on your product pages, then you will need to create a reviews directory inside _data and create a separate file for each product with reviews, named after the product code. For example `_data/reviews/ABC124.yml`
-
-The data file should follow the below format. The name is the customer name, the rating is how many stars out of 5, the title is the main title of the review and the avatar is a link to an image, if you have one. If you don’t have a customer image then just omit it and a user icon will be used instead. Lastly, the description is the main content of the review. 
-
-```yml
-- name: Mr E Xample
-  rating: 4
-  title: Great product, highly recommended
-  date: 01/01/2019
-  avatar: https://bulma.io/images/placeholders/128x128.png
-  description: >
-    The product worked really well. I would recommend this to most people to use. Delivery was quick and reasonable. 
-    Would recommend this to my friends. 
-- name: Mrs R E View
-  rating: 5
-  title: Nice, really liked this
-  date: 02/02/2019
-  description: >
-    The product worked exactly as described.
-```
-
-Example [product category and product pages](https://www.csrhymes.com/bulma-clean-theme/products/) can be seen on the theme’s demo site here if you want to take a look. 
-
-## Landing Page Layout
-
-I was thinking it would be good to create a landing style page so I could highlight a new project or something I was working on separately from the main projects page already on my site. Rather than create a new layout I thought it would be better to enhance the existing page layout so you could choose to use these features if you so desired. 
-
-I started by adding a call to action (otherwise known as a large button) in the hero at the top of the page. This can be used by adding hero_link and hero_link_text to the frontmatter.
-
-```yml
----
-layout: page
-title: Example Landing Page
-subtitle: This is an example landing page with callouts
-hero_height: is-large
-hero_link: /page-1/
-hero_link_text: Example Call To Action
----
-```
-
-Next, I wanted to make some nice callouts to help shout about key features of whatever you are talking about on your landing page. This started out as a simple icon and a title, but slowly evolved to allow for a subtitle, description text and a call to action button as well. 
-
-To make it more flexible, only the title and subtitle are required and the rest can be used as and when necessary. 
-
-To make the callouts reusable in different pages on your site, the content is defined in a datafile, for example, example_callouts.yml. The below shows the example structure for the callouts.
-
-```yml
-style: is-light
-items:
-  - title: Example callout 1
-    subtitle: Example subtitle 1
-    icon: fa-space-shuttle
-    description: >
-      The example description text goes here and can be multiple lines.
-
-      For example, such as this. 
-    call_to_action_name: Call to action 1
-    call_to_action_link: /page-1/
-```
-
-The style is the style of the hero that the callouts are contained in. This makes use of Bulma hero styles. 
-
-Then to display the callouts on the page, add a callouts setting to the pages frontmatter with the name of the data file without the extension.
-
-```yml
----
-layout: page
-title: Example Landing Page
-subtitle: This is an example landing page
-callouts: example_callouts
----
-```
-
-An example [landing page layout](https://www.csrhymes.com/bulma-clean-theme/landing/) can be seen in the theme’s demo site.
-
-## What do you think?
-
-I’ve tried to make these additions easy to use and flexible where possible. I’ve updated the readme file and the theme demo site with more information to help you get started with these new features. 
-
-If you decide to give the theme a go, it would be great to see how you are using it and if you have any ideas of how it can be developed further. You never know, if I get enough responses then I may even make a showcase page on the demo theme site to highlight how others are using it. 
+在Internet条件下，数据的使用只是促进管理，而竞争力的来源多样，最直观的来自于产品质量的提高。所以要避免迷信数据，最终的目的是提高竞争力。
