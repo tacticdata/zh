@@ -7,7 +7,15 @@ published: true
 ---
 <!-- callouts: home_callouts -->
 
-[Data tells the truth](/tutorials/en/datatellthetruth/)
+[Data tells the truth](/tutorials/en/data-truth/)
+
+
+[How to use data](/tutorials/en/use-data/)
+
+[Practical](/tutorials/en/practical/)
+
+[ERP Demo](/tutorials/en/erp-demo/)
+
 
 ##### Data tells the truth
 
