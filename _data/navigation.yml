@@ -18,8 +18,8 @@
 - name: Tutorials
   link: /tutorials/
 - name: 首页
-  link: /index-zh/
-  - name: 数据
+  link: /index-zh/ 
+- name: 数据
   link: /base/
 - name: Contact
   link: /contact/
