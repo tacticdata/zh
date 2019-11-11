@@ -1,6 +1,6 @@
 ---
-title: Data Guidance Management
-subtitle: Affordable Solution For Company with Cloud, Open Source and Data
+title: Data Drives Management
+subtitle: Affordable Solution For Companies with Cloud, Open Source and Data
 layout: page
 hero_image: /img/sitev1.0/home07.jpg
 published: true
@@ -14,7 +14,7 @@ published: true
 
 [Practical](/tutorials/en/data-practical/)
 
-[ERP Demo](/tutorials/en/erp-demo/)
+[ERP Demo](/erp-demo/)
 
 
 ##### Data tells the truth
