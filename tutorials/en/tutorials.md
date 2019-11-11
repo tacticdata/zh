@@ -12,7 +12,7 @@ published: true
 
 [How to use data](/tutorials/en/use-data/)
 
-[Practical](/tutorials/en/practical/)
+[Practical](/tutorials/en/data-practical/)
 
 [ERP Demo](/tutorials/en/erp-demo/)
 
