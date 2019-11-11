@@ -7,6 +7,8 @@ published: true
 ---
 <!-- callouts: home_callouts -->
 
+[Data tells the truth](/datatellthetruth/)
+
 ##### Data tells the truth
 
 Digital shift comes with fierce competation, live and adopt changes or die with the wind, we must choose in front of time, no one can hide.
