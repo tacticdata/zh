@@ -16,7 +16,7 @@
 #    - name: Landing Page With Callouts
 #      link: /landing/
 - name: Tutorials
-  link: /tutorials/en/index/
+  link: /tutorials/en/
 - name: 首页
   link: /index-zh/ 
 - name: 数据
