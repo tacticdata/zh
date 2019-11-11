@@ -19,7 +19,7 @@ There are features:
 
 ###### The solution include:
 
-- An full featured ERP imapletation
+- An full featured ERP implement
 - A manual on how to use data
 - A Counsulting on how data apply in business 
 
