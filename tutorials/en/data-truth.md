@@ -1,8 +1,8 @@
 ---
 published: true
-layout: page
-title:  隐私是数字时代的基石
+title:  Data tells the truth
 date:   2019-11-08
+layout: page
 hide_hero: true
 ---
 
