@@ -24,7 +24,7 @@ We use cloud server alone with Open Source applications like operating system Li
 
 1) The technology progress provide the envoroiment
 
-Cloud and Open Source provide the posibilities, and  crucial demands in cloud show small business try to figure out the way to try to alaign with digital transfermation. 
+Cloud and Open Source provide the posibilities, and  increasing demands in cloud show small business try to figure out the way to try to alaign with digital transfermation. 
 
 2) The production installation of this process prove it is practical, not fiction. 
 
