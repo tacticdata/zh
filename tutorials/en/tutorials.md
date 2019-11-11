@@ -6,7 +6,7 @@ published: true
 ---
 <!-- callouts: home_callouts -->
 
-Digitalization means to represent with metrics instead monitoring by your own eyes, you have to understand business through metrics, and software to make your business digital, the organization align with digital reality, the fierce competition force us to do those.
+Digitalization means to represent with metrics instead monitoring by your own eyes, you have to understand business through metrics, software to make your business digital and the organization align with digital reality, the fierce competition force us to do so.
 
 Website and erp are different role in company digitalization, website often act in company sales, erp notes down every business raleted records,  we want to use data to represent our business status, say using metrics instead presence by your self with your eyes. Usually we treat if we know customers better, we will have competetive advantage against our competator. The traditional way is guessing work, more experienced often means more accurate. But in digital era, we use data to achieve in traditional way often accurate but expensive way, the customers are out there, in digital era, you can not wait, you have to move. You have to judge the customers preferences by designing a campaign to attract customers show their preference, all you want to know is customers's preferences, you have to achieve that among website (website only provide the contens you promopt your sales) and data analyse (we connect website with Google Analytics to analyse the customers preferences comparing your history data to fine tune until satisfied.) by designing a web compaign.
 
