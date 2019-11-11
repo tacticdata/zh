@@ -19,7 +19,7 @@ published: true
 
 ##### Data tells the truth
 
-Digital shift comes with fierce competation, live and adopt changes or die with the wind, we must choose in front of time, no one can hide.
+Digital shift comes with fierce competation, live or die, we must choose in front of time, no one can hide.
 
 Website and ERP combined provide digital companies need, we presume that you have had a website. Our mission is to provide affordable ERP to companies, as well as saving spend on cloud base applications.
 
