@@ -20,7 +20,7 @@
 - name: 首页
   link: /index-zh/ 
 - name: 数据
-  link: /base/
+  link: /tutorials/zh/tutorials/
 - name: Contact
   link: /contact/
 - name: Blog
