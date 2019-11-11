@@ -1,10 +1,12 @@
 ---
-published: true
+title: Contact
+subtitle: 联系我们
 layout: page
-hide_hero: true
+hero_image: /img/sitev1.0/home.jpg
+published: true
 ---
 
-# Contact
+
 
 
 
