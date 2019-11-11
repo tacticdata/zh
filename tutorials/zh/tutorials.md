@@ -1,6 +1,6 @@
 ---
-title: 数据帮助管理
-subtitle: 云计算、开源ERP、数据使用方法，为企业提供一种低价数字化选择。
+title: 如何使用数据
+subtitle: 数据帮助企业管理
 layout: page
 hero_image: /img/sitev1.0/homecn.jpg
 published: true
@@ -11,7 +11,11 @@ published: true
 
 [数据应用举例](/tutorials/zh/data-usecase/)
 
- [](/tutorials/zh/12/)
+ [方案构成](/tutorials/zh/data-practical/)
+ 
+ [你将得到什么](/erp-demo/)
+ 
+ 
  
 ##### 如何使用数据？
 
