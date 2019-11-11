@@ -16,7 +16,7 @@ ERP goes similar way, because erp is internal application, it will not connect G
 
 #### How is this pratical
 
-We have two persepetives, one is techonologies, another is based on our activity.
+We have two persepetives, one is technology, another is based on our activity.
 
 ###### Technology
 
