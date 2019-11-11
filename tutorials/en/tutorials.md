@@ -16,6 +16,8 @@ ERP goes similar way, because erp is internal application, it will not connect G
 
 #### How is this pratical
 
+We have two persepetives, one is techonologies, another is based on our activity.
+
 ###### Technology
 
 We use cloud server alone with Open Source applications like operating system Linux, docker containers, database to ERP Odoo, a line of Open Source applications to save license cost.
@@ -36,7 +38,7 @@ Cloud and Open Source provide the possibilities and  crucial, demands in cloud s
 
 We first installed in 2012 on linode.com, start production use from October, 2013. Then shift cloud provider to Ali Cloud in 2015, now it run under a cloud server in AWS Beijing, it is running under docker container after update to AWS after March 2017.
 
-[Practical](/tutorials/en/data-practical/)
+[To have a look on how those are practical?](/tutorials/en/data-practical/)
 
 ##### What you get
 
