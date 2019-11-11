@@ -1,3 +1,15 @@
+---
+published: true
+title:  How is this pratical
+date:   2019-11-11
+layout: page
+hide_hero: true
+---
+
+### How is this pratical
+
+We have two persepetives, one is techonologies, another is based on our activity.
+
 ### Technology
 
 We use cloud server alone with Open Source applications like operating system Linux, docker containers, database to ERP Odoo, a line of Open Source applications to save license cost.
