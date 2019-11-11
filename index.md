@@ -1,5 +1,5 @@
 ---
-title: Data Drive Management
+title: Data Drives Management
 subtitle: Affordable Solution For Companies with Cloud, Open Source and Data
 layout: page
 hero_image: /img/sitev1.0/home07.jpg
