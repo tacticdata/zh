@@ -1,4 +1,14 @@
-方案的构成
+---
+title:  方案的构成
+date:   2019-11-12
+published: true
+layout: page
+hide_hero: true
+---
+
+
+
+###### 方案的构成
 
 低价ERP要去掉目前ERP实施中常见的价格高，工期，总体导致价格升高，规模小一些的企业无法采用.
 
