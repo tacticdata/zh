@@ -5,8 +5,6 @@ date:   2019-11-08
 description: "认识数据"
 published: true
 hide_hero: true
-tags: development
-canonical_url: https://https://tacticdata.github.io/bulma/development/2019/11/08/data.html
 ---
 
 ###### 为什么要使用数据
