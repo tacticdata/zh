@@ -1,6 +1,6 @@
 - label: Example Menu
   items:
-    - name: Home
+    - name: Homes
       link: /
     - name: Pages
       link: /#
