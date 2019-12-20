@@ -1,11 +1,10 @@
 ---
-title: 数据帮助管理
-subtitle: 云计算、开源ERP、数据使用方法，为企业提供一种低价数字化选择。
+title: 企業數字化
+subtitle: 數據驅動提升管理的低價方案
 layout: page
 hero_image: /img/sitev1.0/homecn.jpg
 published: true
 ---
-<!-- callouts: home_callouts -->
 
 Internet带来竞争加剧，出于提升竞争力的需要，引发对数据的追求。数据与竞争力存在怎样的关系？ 
 
