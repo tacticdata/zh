@@ -15,15 +15,15 @@
 #      link: /page-without-hero/
 #    - name: Landing Page With Callouts
 #      link: /landing/
-- name: Tutorials
-  link: /tutorials/en/tutorials/
-- name: 首页
-  link: /index-zh/ 
-- name: 数据
-  link: /tutorials/zh/tutorials/
+# - name: Tutorials
+#  link: /tutorials/en/tutorials/
+- name: Home
+  link: /index-en/ 
+#- name: 数据
+#  link: /tutorials/zh/tutorials/
 - name: Contact
   link: /contact/
-- name: Blog
-  link: /blog/
+#- name: Blog
+#  link: /blog/
 - name: Docs (external)
   link: https://tacticdata.readthedocs.io/en/latest
