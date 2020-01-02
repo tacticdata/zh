@@ -1,6 +1,6 @@
 ---
-title: 企業數字化
-subtitle: 數據驅動提升管理的低價方案
+title: 平價數字化
+subtitle: 數據提升競爭力
 layout: page
 hero_image: /img/sitev1.0/homecn.jpg
 published: true
