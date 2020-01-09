@@ -1,21 +1,18 @@
 ---
 title: Contact
-subtitle: 联系我们
+subtitle: 聯繫我們
 layout: page
 hero_image: /img/sitev1.0/homeen.jpg
 published: true
 ---
 
-##### 请回答如下问题
+請與我們聯繫。
 
-请描述日常的主要商业活动，能够代表贵企业的典型活动。
+請描述你的企業日常工作，以便讓我們了解你的企業名稱，主要產品，僱員人數，您希望他們多少人成為未來ERP的用戶。請告知您的網址。
 
-贵企业雇员人数，对于未来的ERP，有多少成为用户，分布在哪些职能？
-
-贵公司是否有网站，如有，请告知。
+你對未來的ERP實施有什麼想法請告訴我們。
 
 
-
-Email: info@example.com
+Email: tacticlink@yahoo.com
 
 
