@@ -1,6 +1,6 @@
 ---
-title: Data Drives Management
-subtitle: Affordable Enterprse Digital Solution
+title: Cheap Digital
+subtitle: Data Drive Business
 layout: page
 hero_image: /img/sitev1.0/home07.jpg
 published: true
