@@ -5,24 +5,31 @@ layout: page
 hero_image: /img/sitev1.0/home07.jpg
 published: true
 ---
-<!-- callouts: home_callouts -->
 
-Internet brought fierce competation, to live or die is a must answer question in front every business.
+Internet brings fierce competitions, what shall we deal with it? The answer is digitalazition.
 
-Website combined ERP are answer to our low priced digital offering. We presume website has available to companies cause website is popular. Our low priced digital offering refer to erp impletation.
+The goal of digitalazition is to use data, and data leads the way to understand customer better, in order to improve products or services to achieve competitive advantage. Website and ERP combined consist digitalazition of a company, website is popurlar and ERP is expensive and implment longer.We assum the company's website is available, the affordable digital solution here refer to cheap ERP implyment and the respective manual on how to use data to increase your copetitiveness.ERP delivered in Cloud, to use Open Source applications to deduct cost.
 
-There are features:
+If you want to do it yourself, [here](https://github.com/tacticlink/cheapdigital) available complete steps.
 
-- digitalize your sales
-- know how to use data
-- practice your business with digital envoinments
+### To Save Costs For Customers
 
-###### The solution include:
+- To use Open Source applications in order to save lisence costs
+- Minimiz cutomerzation and adopt generic workflow.
+- Cloud delevery avoiding site installation.
+- Working in Nepal.
 
-- An full featured ERP implement (include sale,purchase,warehouse,CRM, products modules)
-- A manual on how to use data
-- A Counsulting on how data apply in business 
+### Price USD3000
 
-## The Price USD3000
+- You will get a fully functioned ERP with Sale, Purchase, Wharehouse, POS(Point Of Sales).
+- Documentation support
 
-Go to [Tutorials](/tutorials/en/tutorials/) on how to use
+Alone with yearly support charge USD200. Including Backup and Restore, consulting.
+
+### Consulting on Data Use USD4000
+
+- Save money for customers during digitalazition.
+- Sovle problems for companies,
+- Data usage tactics.
+
+Please [contact us](/contact_en) if you are intersted.
