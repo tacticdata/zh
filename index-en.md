@@ -32,4 +32,4 @@ Alone with yearly support charge USD200. Including Backup and Restore, consultin
 - Sovle problems for companies,
 - Data usage tactics.
 
-Please [contact us](/contact_en) if you are intersted.
+Please [contact us](/contact_en) if you are interested.
