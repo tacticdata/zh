@@ -2,7 +2,7 @@
 title: 平價數位化
 subtitle: 數據提升競爭力
 layout: page
-hero_image: /img/indeximg3.jpg
+hero_image: /img/indeximg.jpg
 published: true
 ---
 
