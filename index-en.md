@@ -2,7 +2,7 @@
 title: Cheap Digital
 subtitle: Data Drive Business
 layout: page
-hero_image: /img/sitev1.0/home07.jpg
+hero_image: /img/indeximg2.jpg
 published: true
 ---
 
