@@ -1,9 +1,9 @@
 ---
 title: 關於我們
 subtitle: 
-hero_height: is-small
+hero_height: is-medium
 layout: page
-hero_image: /img/sitev1.0/home07.jpg
+hero_image: /img/indeximg7.jpg
 published: true
 ---
 
