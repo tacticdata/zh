@@ -26,7 +26,7 @@ If you want to do it yourself, [here](https://github.com/tacticlink/cheapdigital
 
 Alone with yearly support charge USD200. Including Backup and Restore, consulting.
 
-### Consulting on Data Use USD4000
+### Consulting on Data Use USD2000
 
 - Save money for customers during digitalization.
 - Sovle problems for companies,
