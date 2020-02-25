@@ -25,7 +25,7 @@
   link: /about/
 - name: 聯繫我們
   link: /contact/
-#- name: Blog
-#  link: /blog/
-- name: Docs (external)
-  link: https://tacticlink.readthedocs.io/en/latest
+- name: Blog
+  link: /blog/
+#- name: Docs (external)
+#  link: https://tacticlink.readthedocs.io/en/latest
