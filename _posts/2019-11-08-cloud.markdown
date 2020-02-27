@@ -2,8 +2,8 @@
 layout: post
 title:  "云计算"
 categories: blog
-hero_image: /img/road1.jpg
-image: /img/road1.jpg
+hero_image: /img/blog-img/cloud01.jpg
+image: /blog-menu/cloud01.jpg
 published: true
 ---
 
