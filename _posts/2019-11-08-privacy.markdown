@@ -2,9 +2,8 @@
 layout: post
 title:  隐私是数字时代的基石
 categories: blog
-date:   2019-11-08
-description: "隐私是数字时代的基石"
-hide_hero: true
+hero_image: /img/road1.jpg
+image: /img/road1.jpg
 published: true
 ---
 
