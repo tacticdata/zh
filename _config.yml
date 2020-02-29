@@ -35,7 +35,7 @@ sass:
   style: compressed
   source_dir: _sass
 
-google_analytics: UA-154572177-1
+# google_analytics: UA-154572177-1
 defaults:
   -
     scope:
