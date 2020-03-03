@@ -1,5 +1,5 @@
 ---
-title: 平價數位化
+title:                                       平價數位化
 subtitle: 數據提升競爭力
 layout: page
 hero_image: /img/indeximg8.jpg
