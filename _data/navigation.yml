@@ -15,8 +15,7 @@
 #      link: /page-without-hero/
 #    - name: Landing Page With Callouts
 #      link: /landing/
-- name: Tutorials
-  link: /tutorials/zh
+
 #- name: Home
 #  link: /index-en/ 
 #- name: 数据
@@ -25,6 +24,8 @@
   link: /about/
 - name: 聯繫我們
   link: /contact/
+  - name: Tutorials
+  link: /tutorials/zh
 #- name: english
 #  link: /en/
 #- name: Blog
