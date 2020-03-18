@@ -24,7 +24,7 @@
   link: /about/
 - name: 聯繫我們
   link: /contact/
-  - name: Tutorials
+- name: Tutorials
   link: /tutorials/zh
 #- name: english
 #  link: /en/
