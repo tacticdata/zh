@@ -7,4 +7,4 @@ hero_image: /img/indeximg7.jpg
 published: true
 ---
 
-[企業為什要追求數位化](/tutorials/zh/pursue-digital.md)
+[企業為什要追求數位化](/tutorials/zh/pursue-digital/)
