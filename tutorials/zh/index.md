@@ -8,3 +8,5 @@ published: true
 ---
 
 [企業為什要追求數位化](/tutorials/zh/pursue-digital/)
+
+[如何選擇雲端運算](/tutorials/zh/cloud/)
