@@ -3,6 +3,7 @@ title:
 subtitle: 如何選擇雲端運算
 hero_height: is-small
 layout: page
+hero_image: /img/sitev1.0/homeen.jpg
 published: true
 ---
 
