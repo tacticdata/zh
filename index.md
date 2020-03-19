@@ -15,7 +15,7 @@ published: true
 
 數位化的最終目的是為了提升企業的競爭力，所以考慮數位化之初，應從競爭力的角度考慮數位化的目的，軟體只是使用數據的準備。
 
-詳細請讀[企業為什要追求數位化](/tutorials/zh/pursue-digital.md)
+請讀[企業為什要追求數位化](/tutorials/zh/pursue-digital.md)
 
 ### 平價數位化所需技術已經就緒
 
