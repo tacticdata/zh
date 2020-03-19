@@ -2,6 +2,7 @@
 title: 
 subtitle: 企業為什要追求數位化
 hero_height: is-small
+hero_image: /img/sitev1.0/homeen.jpg
 layout: page
 published: true
 ---
