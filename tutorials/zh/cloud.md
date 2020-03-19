@@ -1,4 +1,10 @@
-## 如何選擇雲端運算
+---
+title: 
+subtitle: 如何選擇雲端運算
+hero_height: is-small
+layout: page
+published: true
+---
 
 cloud是形象的定義，也是模糊的定義。以我們常用的虛擬伺服器為例，前代產品為網站設計，主要特徵是缺少公共IP，網站需要計算資源相對簡單，於是只要網站能解析域名就可以，若要單需要獨立IP，前代方案叫Dedicate Server，比網站用伺服器貴很多。
 
