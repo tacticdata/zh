@@ -38,3 +38,5 @@ Open Source軟體加docker是平價數位化的答案。雲端部署，( 請讀[
 - 其他Open Source軟體應用
 
 如果感興趣，請[聯繫我們](/contact)。 
+
+Join our [Facebook Group]()
