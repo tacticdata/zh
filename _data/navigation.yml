@@ -20,14 +20,14 @@
 #  link: /index-en/ 
 #- name: 数据
 #  link: /tutorials/zh/tutorials/
-- name: 關於我們
+- name: About Us
   link: /about/
-- name: 聯繫我們
+- name: Contact Us
   link: /contact/
 - name: Tutorials
   link: /tutorials/zh
-- name: Facebook Group
-  link: https://www.facebook.com/groups/208571033569478
+#- name: Facebook Group
+#  link: https://www.facebook.com/groups/208571033569478
 #- name: english
 #  link: /en/
 #- name: Blog
