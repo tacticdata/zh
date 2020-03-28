@@ -1,6 +1,6 @@
 ---
-title: 關於我們
-subtitle: 
+title: 
+subtitle: About Us
 hero_height: is-medium
 layout: page
 hero_image: /img/indeximg7.jpg
