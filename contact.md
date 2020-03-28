@@ -1,6 +1,6 @@
 ---
-title: Contact
-subtitle: 聯繫我們
+title: 
+subtitle: Contact Us
 layout: page
 hero_image: /img/sitev1.0/homeen.jpg
 published: true
