@@ -32,5 +32,5 @@
 #  link: /en/
 #- name: Blog
 #  link: /blog/
-#- name: Docs (external)
-#  link: https://tacticlink.readthedocs.io/en/latest
+- name: Docs (external)
+  link: https://tacticlink.readthedocs.io/en/latest
