@@ -24,13 +24,15 @@
   link: /about/
 - name: Contact Us
   link: /contact/
-- name: Tutorials
-  link: /tutorials/en
+#- name: Tutorials
+#  link: /tutorials/en
 #- name: Facebook Group
 #  link: https://www.facebook.com/groups/208571033569478
 #- name: english
 #  link: /en/
 #- name: Blog
 #  link: /blog/
-- name: Docs (external)
-  link: https://tacticlink.readthedocs.io/en/latest
+- name: Docs
+  link: /docs/
+# - name: Docs (external)
+#   link: https://tacticlink.readthedocs.io/en/latest
