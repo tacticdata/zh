@@ -36,7 +36,7 @@
   link: /docs/
 - name: Page With Sidebar
   link: /page-1/
- - name: Page With Menubar
+- name: Page With Menubar
   link: /page-3/
 # - name: Docs (external)
 #   link: https://tacticlink.readthedocs.io/en/latest
