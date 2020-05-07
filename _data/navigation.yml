@@ -34,9 +34,9 @@
 #  link: /blog/
 - name: Manual
   link: /docs/
-- name: Page With Sidebar
-  link: /page-1/
 - name: Page With Menubar
   link: /page-3/
+- name: Demo
+  link: /demo/
 # - name: Docs (external)
 #   link: https://tacticlink.readthedocs.io/en/latest
