@@ -1,12 +1,12 @@
 #- name: Pages
 #  link: /#
 #  dropdown:
-- name: Page With Sidebar
-  link: /page-1/
+#- name: Page With Sidebar
+#  link: /page-1/
 #    - name: Page No Sidebar
 #      link: /page-2/
-- name: Page With Menubar
-  link: /page-3/
+#- name: Page With Menubar
+#  link: /page-3/
 #    - name: Page With Tabs
 #      link: /page-4/
 #    - name: Page Without Footer
@@ -32,7 +32,11 @@
 #  link: /en/
 #- name: Blog
 #  link: /blog/
-- name: Docs
+- name: Manual
   link: /docs/
+- name: Page With Sidebar
+  link: /page-1/
+ - name: Page With Menubar
+  link: /page-3/
 # - name: Docs (external)
 #   link: https://tacticlink.readthedocs.io/en/latest
