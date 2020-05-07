@@ -5,7 +5,7 @@
     - name: Purchase order
       link: /purchase/
     - name: Warehouse
-      link: /wharehouse/
+      link: /warehouse/
     - name: Page With Tabs
       link: /page-4/
     - name: Page Without Footer
