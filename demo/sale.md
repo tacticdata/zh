@@ -1,10 +1,11 @@
 ---
-title: 
-subtitle: 銷售訂單
-hero_height: is-small
+title: Page with menubar
+subtitle: Demo page with a menubar
 layout: page
-hero_image: /img/sitev1.0/homeen.jpg
-published: true
+show_sidebar: false
+menubar: demo_menu
+hero_height: is-small
+hero_image: /img/sitev1.0/homeen.j
 ---
 
 ###### Sale
