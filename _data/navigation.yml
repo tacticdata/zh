@@ -32,11 +32,11 @@
 #  link: /en/
 #- name: Blog
 #  link: /blog/
+- name: Demo
+  link: /demo/
 - name: Manual
   link: /docs/
 - name: Page With Menubar
   link: /page-3/
-- name: Demo
-  link: /demo/
 # - name: Docs (external)
 #   link: https://tacticlink.readthedocs.io/en/latest
