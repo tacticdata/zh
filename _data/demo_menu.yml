@@ -1,11 +1,11 @@
 - label: Demo Menu
   items:
     - name: Sales order
-      link: /sale/
+      link: /demo/sale/
     - name: Purchase order
-      link: /purchase/
+      link: /demo/purchase/
     - name: Warehouse
-      link: /warehouse/
+      link: /demo/warehouse/
     - name: Page With Tabs
       link: /page-4/
     - name: Page Without Footer
