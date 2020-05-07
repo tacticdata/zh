@@ -6,9 +6,3 @@
       link: /demo/purchase/
     - name: Warehouse
       link: /demo/warehouse/
-    - name: Page With Tabs
-      link: /page-4/
-    - name: Page Without Footer
-      link: /page-5/
-    - name: Page Without Hero
-      link: /page-without-hero/
