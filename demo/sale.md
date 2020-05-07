@@ -4,6 +4,8 @@ subtitle: Demo page with a menubar
 layout: page
 show_sidebar: false
 menubar: demo_menu
+hide_hero: false
+hero_height: is-small
 ---
 
 ###### Sale
