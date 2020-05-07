@@ -33,7 +33,7 @@
 #- name: Blog
 #  link: /blog/
 - name: Demo
-  link: /demo/
+  link: /demo/sale/
 - name: Manual
   link: /docs/
 - name: Page With Menubar
