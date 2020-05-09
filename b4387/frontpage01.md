@@ -1,5 +1,3 @@
-I have to write on web page today
-
 Title: Low Cost Solution for Digital Business
 
 Subtitle: A Solution Based On Cloud, Docker and Open Source Applications 
@@ -18,4 +16,4 @@ You can choose to build applications by yourself refer to  our Documentations, y
 
 You may buy ERP application from us as part of digital service  at USD 2000, it includes Open Source ERP either with a regular web interface or a Point of Sale for store use, the ERP application include Purchase, Sale, Wharehouse modulars, you can try those features on https://demo.odoo.com.
 
-Futher more, you can also choose to use our technology support alone with second option at USD 4000 total, alone with second option application and technology support as well. 
+Futher more, you can also choose to use our technology support alone with second option at USD 4000 total, alone with second option application and technology support as well.
