@@ -1,6 +1,6 @@
 ---
-title: 
-subtitle: Contact Us
+title: Contact Us
+subtitle: 
 layout: page
 hero_image: /img/sitev1.0/homeen.jpg
 published: true
