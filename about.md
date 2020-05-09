@@ -17,8 +17,7 @@ Digital is a term represent business pratices shift to internet, internet change
 
 Big companies may have money to invest in the begining, maybe due to the competition situation they faced, they act in digital time due to competition or keeping their market share,but big companies control every aspects in market is immpossable, there is room for small business,they have  to adopt different practices other than the big companies.
 
-We will see the digital route is different with big investment,the  digital service will be lower in front of those demands. Meanwhile the technology development is almost ready, some  technology
-emerge, in order to provide low cost service to small busininess,such as Open Source applications, Docker, Cloud.
+We will see the digital route is different with big investment,the  digital service will be lower in front of those demands. Meanwhile the technology development is almost ready, some  technology emerge, in order to provide low cost service to small busininess,such as Open Source applications, Docker, Cloud.
 
 ### We will provide low cost digital solution to small business
 
