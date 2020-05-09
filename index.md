@@ -1,49 +1,27 @@
 ---
-title: 平價數位化
-subtitle: 數據提升競爭力
+title: Low Cost Digital Solution for Business
+subtitle: Based On Cloud, Docker and Open Source Applications
 layout: page
 hero_image: /img/indeximg8.jpg
+hero_height: at-large
 published: true
 ---
 
-### 數位化的目的
+#### Digital need softwares
 
-數位化伴隨著Intenet在商業領域的應用以及商業競爭加劇的背景條件，傳統商業直觀容易理解，數位化需要使用數據，由此，數位化需要軟體，為後續數據使用做基礎，數據有兩方面用途：
+The digital business practices need softwares, basicly website and erp compose a company's digital need, we presume  that you already have had website,if you don't have had a website, we provide a tutorial on how to make a free website on github, our solution mainly focus on ERP application.
 
-- 方便管理，數據以管理指標呈現給企業管理者，取代傳統現場監工的功能。
-- 聯繫消費者，了解消費者選擇的品好。摒棄傳統商業憑猜測或經驗的弊端。在銷售領域尤其是數字化媒體領域應用廣泛。
+#### Digital path need technology support
 
-數位化的最終目的是為了提升企業的競爭力，所以考慮數位化之初，應從競爭力的角度考慮數位化的目的，軟體只是使用數據的準備。
+Digital business  practices need technology support, your business knowledges plus technology support mainly regarding softwares support lead to possible success.  
 
-請讀[企業為什要追求數位化](/tutorials/zh/pursue-digital.md)
+#### We provide 3 options 
 
-### 平價數位化所需技術已經就緒
+You can choose to build applications by yourself refer to  our Documentations, your business practices are managed by your own, it is free of charge. We welcome you consoult us.
 
-數位化相比前代商業模式有跨代優勢，數位化的目的在提升競爭力，而降低數位化價格所需的技術已經出現。
+You may buy ERP application from us as part of digital service  at **USD 2000**, it includes Open Source ERP either with a regular web interface or a Point of Sale for store use, the ERP application include Purchase, Sale, Wharehouse modulars, you can try those features on https://demo.odoo.com.
+You can have users with no limit.
 
-Open Source軟體加docker是平價數位化的答案。雲端部署，( 請讀[關於雲端運算](/tutorials/zh/cloud/) )，在線技術支持保持數位化所需低價，擯棄抬高服務價格的誤導，使企業把力量轉移到提高競爭力上。
+Futher more, you can also choose to use our consulting service alone with second option at **USD 4000** total.
 
-網站和ERP構成企業的數位化，網站價格不貴，比較常見，ERP價格比較貴，平價數位化側重指ERP
-
-### 平價數位化價格
-
-## 1. ERP USD 3000
-
-- 完整功能ERP，雲端交付，在線使用支持。[銷售訂單](/demo/sale/)，採購訂單，倉庫管理，數據統計
-- USD200/年，每年使用費，包括備份，恢復，使用支持。
-
-## 2. 諮詢 USD 2000
-
-- 為企業提供雲計算相關的諮詢服務，重心在為企業省錢。
-- 其他Open Source軟體應用
-
-如果感興趣，請[聯繫我們](/contact)。 
-
-###### Join our [Facebook Group](https://www.facebook.com/groups/208571033569478)  (Cheap Digital / 平價數位化)
-
-- list1
-- list2
-
-new para
-
-## title1
+#### Please [contact us](/contact/) if you are intereasting
