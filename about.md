@@ -8,9 +8,7 @@ published: true
 ---
 
 
-### Digital is unavoid path we must go through
-
-Digital process is jsut in its beginning stage,and  digital show their advantage compare to traditional bbusiness pratices, so as an aftermatch, every business which want to survive have to go digital without hesitation.
+Digital process is jsut in its beginning stage,and  digital show their advantage compare to traditional bbusiness pratices, so as an aftermatch, every business which want to survive have to go digital without hesitation.Digital is unavoid path we must go through.
 
 Digital is a term represent business pratices shift to internet, internet change the way people react in business,it is a long way to go, we only see very beginning of this long proccess.
 
