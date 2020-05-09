@@ -51,3 +51,11 @@ $ sudo nano /etc/xdg/openbox/autostart
     # Caution:
 	# You can set url like 'https://www.google.com' or 'about:blank' whatever you want to open.
     # Exit kiosk mode with CTRL-ATL-Backspace
+    
+Step 6: startx automatically on boot
+
+`$ sudo nano .bash_profile`, add the following content then save.
+	
+	[[ -z $DISPLAY && $XDG_VTNR -eq 1 ]] && startx
+
+ Next time,reboot computer, you will get a koisk moder browser open automatically on boot, when browser open and load, just click Ctrl-N to open a new window.
