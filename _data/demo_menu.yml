@@ -1,8 +1,12 @@
-- label: Demo Menu
+- label: ERP Demostration
   items:
+    - name: Products
+      link: /demo/product/
     - name: Sales order
       link: /demo/sale/
     - name: Purchase order
       link: /demo/purchase/
     - name: Warehouse
       link: /demo/warehouse/
+    - name: Reporting (data analyses for owners and managers)
+      link: /demo/reprting/
