@@ -14,6 +14,9 @@ Digital business  practices need technology support, your business knowledges pl
 
 You can choose to build applications by yourself refer to  our Documentations, your business practices are managed by your own, it is free of charge. We welcome you consoult us.
 
-You may buy ERP application from us as part of digital service  at USD 2000, it includes Open Source ERP either with a regular web interface or a Point of Sale for store use, the ERP application include Purchase, Sale, Wharehouse modulars, you can try those features on https://demo.odoo.com.
+You may buy ERP application from us as part of digital service  at **USD 2000**, it includes Open Source ERP either with a regular web interface or a Point of Sale for store use, the ERP application include Purchase, Sale, Wharehouse modulars, you can try those features on https://demo.odoo.com.
+You can have users with no limit.
 
-Futher more, you can also choose to use our technology support alone with second option at USD 4000 total, alone with second option application and technology support as well.
+Futher more, you can also choose to use our consulting service alone with second option at **USD 4000** total.
+
+#### Please [contact us](/contact/) if you are intereasting
