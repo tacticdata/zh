@@ -21,5 +21,5 @@ We will see the digital route is different with big investment,the  digital serv
 
 ### We will provide low cost digital solution to small business
 
-To meet the demands of small business, either softwares or consulting,we believe the competitiveness are from products and services but not from IT deparment, IT is only a surplement to digital business, it will not change the business drurmatically. We stong believe IT solution will be lower their service to meet the demands.
+To meet the demands of small business, either softwares or consulting,we believe the competitiveness are from products and services but not from IT deparment, IT is only a supplement to digital business, it will not change the business drurmatically. We stong believe IT solution will be lower price of their service to meet the demands.
 
