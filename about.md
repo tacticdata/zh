@@ -7,6 +7,7 @@ hero_image: /img/indeximg7.jpg
 published: true
 ---
 
+
 ### Digital is unavoid path we must go through
 
 Digital process is jsut in its beginning stage,and  digital show their advantage compare to traditional bbusiness pratices, so as an aftermatch, every business which want to survive have to go digital without hesitation.
