@@ -3,7 +3,7 @@ title: Low Cost Digital Solution for Business
 subtitle: Based On Cloud, Docker and Open Source Applications
 layout: page
 hero_image: /img/indeximg8.jpg
-hero_height: at-large
+hero_height: is-large
 published: true
 ---
 
