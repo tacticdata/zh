@@ -7,32 +7,21 @@ hero_image: /img/indeximg7.jpg
 published: true
 ---
 
-Internet加劇商業競爭，數位化成為企業生存的必然選擇。數位化目標是為競爭力，數位化轉型不同於以往，以往的商業建立在模擬以物易物的基礎上，而數位化的原則是通過數據管理，數據提升企業競爭力，是企業數位化的核心目的。這就涉及到如何使用數據。
+### Digital is unavoid path we must go through
 
-本方案試圖為中小企業提供可負擔的數位化選擇，數位化轉型是一個複雜而有彈性的過程，我們以為，數位化可以去掉昂貴，數位化的重要目的是要提升企業競爭力，而競爭力的來源來自企業自身，主要來自產品和服務的創新，而不是來自數位化。
+Digital process is jsut in its beginning stage,and  digital show their advantage compare to traditional bbusiness pratices, so as an aftermatch, every business which want to survive have to go digital without hesitation.
 
-數位化增加了複雜性，使企業畏懼，數位化的神秘使企業恐懼，而云計算平台給企業提供了省錢的工具，因為怕用不起而不敢用，所以雲計算的使用需要把為企業省錢降低費用放在優先位置。
+Digital is a term represent business pratices shift to internet, internet change the way people react in business,it is a long way to go, we only see very beginning of this long proccess.
 
-###### 數位化的邏輯
 
-企業追求數位化是為使用數據，而是用數據的目的是為提升競爭力，進而提高企業生存能力，數位化需要軟體，軟體只是數據生成整理保存的容器，真正重要的是消費者的選擇，如何讓消費者選擇你而不是競爭對手，需要提升競爭力，競爭力是一個外在模糊的概念，它清晰存在於企業主心裡，以往都是通過經驗或猜測得知消費品好，而今通過數據得到，數據在銷售中的一個用例是通過組織活動，組織一次行銷活動，通常是以廣告的形式。確定銷售渠道，發布廣告，顧客如果感興趣，想了解更多，需要準備一個詳細介紹行銷活動的頁面預備顧客了解叫landing page，通過對landing page訪問數據的了解我們知道有多少顧客訪問過landing page ，ERP提供的銷售數據了解顧客的實際銷售決定。 landing page的訪問數據是通過數據分析平台得到的，我們選擇免費的Google Analytics。
+### Only big players will survive the digital is not true
 
-企業選擇雲計算豐富了數位化的能力，數位化意味企業通過數據指標了解企業，這是與傳統管理方式最大不同。只要有internet，企業可隨時了解運行情況。
+Big companies may have money to invest in the begining, maybe due to the competition situation they faced, they act in digital time due to competition or keeping their market share,but big companies control every aspects in market is immpossable, there is room for small business,they have  to adopt different practices other than the big companies.
 
-###### 數位化的益處
+We will see the digital route is different with big investment,the  digital service will be lower in front of those demands. Meanwhile the technology development is almost ready, some  technology
+emerge, in order to provide low cost service to small busininess,such as Open Source applications, Docker, Cloud.
 
-1. 具有提升競爭力的潛力，了解消費者，進而改進產品或服務，由此提升了競爭力，增加了生存可能。
+### We will provide low cost digital solution to small business
 
-2. 降低成本，減低僱傭門檻。通過使用數據一方面更好了解消費品好，另一方面，原來昂貴的需要經驗的職位被數據使用取代，進而降低企業費用。
+To meet the demands of small business, either softwares or consulting,we believe the competitiveness are from products and services but not from IT deparment, IT is only a surplement to digital business, it will not change the business drurmatically. We stong believe IT solution will be lower their service to meet the demands.
 
-3. 豐富了管理者工具，企業管理者可以通過internet，通過軟體了解企業，而不必親身在現場監工。
-
-###### 我們的任務是為企業省錢
-
-提供低價數位化選擇，數位化終極目的是為提升企業競爭力，我們認為網站和ERP組成企業的基本數位化需求。網站很常見，而且不貴，ERP還很昂貴，低價數位化在這裡指低價ERP，降低ERP實施中的高價工期長。本方案所用軟體包括linux，docker，postgres database，Odoo ERP，都出自開放源碼系列，為降低費用。
-
-為企業數位化採用雲計算提供諮詢服務，把為企業省錢放在首位。
-
-我們的使命是把數位化的益處以低價帶給企業。
-
-我們由來自尼泊爾和中國大陸的工程師把服務帶給企業，從尼泊爾提供服務。
