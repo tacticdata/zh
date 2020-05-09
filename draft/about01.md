@@ -14,4 +14,4 @@ emerge, in order to provide low cost service to small busininess,such as Open So
 
 ### We will provide low cost digital solution to small business
 
-To meet the demands of  small business, include both consulting and softwares. The main purpose we want to achieve is being treated as IT department from business side.
+To meet the demands of small business, either softwares or consulting,we believe the competitiveness are from products and services but not from IT deparment, IT is only a surplement to digital business, it will not change the business drurmatically. We stong believe IT solution will be lower their service to meet the demands. 
