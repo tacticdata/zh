@@ -12,3 +12,12 @@ Refer to: https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-m
 
 The steps are as follows:
 
+Step 1: download raspbian stretch and flash to minicard which Raspberry Pi use. 
+
+Write to minicard with balenaEtcher on Windows.
+
+Step 2: Boot the Raspberry Pi, log in as user 'pi' and password 'raspberry', run $ sudo raspi-config,
+
+- Localisation Options: Select your preferred locale timezone, and keyboard layout.
+- Boot Options: Select “Desktop / CLI” and then “Console Autologin”. 
+- Interfacing Options: Enable SSH access if needed.
