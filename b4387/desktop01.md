@@ -12,7 +12,7 @@ Refer to: https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-m
 
 The steps are as follows:
 
-Step 1: download raspbian stretch and flash to minicard which Raspberry Pi use. 
+Step 1: Download raspbian stretch and flash to minicard which Raspberry Pi use. 
 
 Write to minicard with balenaEtcher on Windows.
 
@@ -21,3 +21,33 @@ Step 2: Boot the Raspberry Pi, log in as user 'pi' and password 'raspberry', run
 - Localisation Options: Select your preferred locale timezone, and keyboard layout.
 - Boot Options: Select “Desktop / CLI” and then “Console Autologin”. 
 - Interfacing Options: Enable SSH access if needed.
+
+Step 3: Update
+
+Run $ sudo apt update
+
+Step 4: Install required softwares.
+
+Run $ sudo apt-get install --no-install-recommends xserver-xorg x11-xserver-utils xinit openbox
+
+$ sudo apt-get install --no-install-recommends chromium-browser
+
+Step 5: Edit the kiosk mode.
+
+$ sudo nano /etc/xdg/openbox/autostart
+
+    # Disable any form of screen saver / screen blanking / power management
+    xset s off
+    xset s noblank
+    xset -dpms
+
+    # Allow quitting the X server with CTRL-ATL-Backspace
+    setxkbmap -option terminate:ctrl_alt_bksp
+
+    # Start Chromium in kiosk mode
+    sed -i 's/"exited_cleanly":false/"exited_cleanly":true/' ~/.config/chromium/'Local State'
+    sed -i 's/"exited_cleanly":false/"exited_cleanly":true/; s/"exit_type":"[^"]\+"/"exit_type":"Normal"/' ~/.config/chromium/Default/Preferences
+    chromium-browser --disable-infobars --kiosk 'http://your-url-here'
+    # Caution:
+	# You can set url like 'https://www.google.com' or 'about:blank' whatever you want to open.
+    # Exit kiosk mode with CTRL-ATL-Backspace
