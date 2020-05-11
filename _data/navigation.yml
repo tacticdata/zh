@@ -35,6 +35,6 @@
 - name: Demo
   link: /demo/sale/
 - name: Manual
-  link: /docs/
+  link: /man/
 # - name: Docs (external)
 #   link: https://tacticlink.readthedocs.io/en/latest
