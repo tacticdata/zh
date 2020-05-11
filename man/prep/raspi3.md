@@ -1,6 +1,6 @@
 ---
 title: null
-subtitle: Manual
+subtitle: Run Raspberry Pi 3 B Plus as a Desktop with Kiosk Chromium Browser
 hero_height: is-small
 layout: page
 hero_image: /img/sitev1.0/homeen.jpg
