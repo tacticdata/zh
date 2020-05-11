@@ -8,8 +8,6 @@ At first, we tried to install Raspbian Jessie with a Lxde desktop, a default web
 
 In order to use Raspberry Pi 3 B Plus as a dektop with only web browser and resonable speed, Raspbiab stretch and kiosk Chromium browser seems a good coice. 
 
-Refer to: https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/
-
 The steps are as follows:
 
 Step 1: Download raspbian stretch and flash to minicard which Raspberry Pi use. 
@@ -66,3 +64,5 @@ Step 5: startx automatically on boot
 Step 6: Use online editor
 
 Use http://prose.io to edit contents integrated with your github.com account.
+
+Refer to: https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/
