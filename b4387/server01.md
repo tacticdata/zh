@@ -7,3 +7,11 @@ http://valleycat.org/linux/arch-usb.html
 Only a slightly different,when in `pacstrap` change instead
 
 `pacstrap -i /mnt/usb linux linux-firmware base base-devel nano openssh wpa_supplicant dhcpcd ppp dialog netctl sudo`
+
+Your first time boot, you need to update 
+
+$ sudo pacman -Syu
+
+	# Install Docker
+    
+    $ sudo pacman -Sy docker
