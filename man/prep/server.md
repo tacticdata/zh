@@ -1,3 +1,12 @@
+---
+title: null
+subtitle: Manual
+hero_height: is-small
+layout: page
+hero_image: /img/sitev1.0/homeen.jpg
+published: true
+---
+
 In order to build a development evironment for website and docker, set a USB disk to pick up Arch Linux and docker installed.
 
 Follow the tutorials:
