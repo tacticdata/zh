@@ -1,6 +1,6 @@
 ---
 title: null
-subtitle: Manual
+subtitle: Setup a Server run Arch Linux and install docker on a USB Disk
 hero_height: is-small
 layout: page
 hero_image: /img/sitev1.0/homeen.jpg
