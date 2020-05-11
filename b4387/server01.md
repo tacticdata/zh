@@ -8,13 +8,11 @@ Only a slightly different,when in `pacstrap` change instead
 
 `pacstrap -i /mnt/usb linux linux-firmware base base-devel nano openssh wpa_supplicant dhcpcd ppp dialog netctl sudo`
 
-####### Your first time boot, you need to update 
+####### Your first time boot, you need to update, install docker 
 
-$ sudo pacman -Syu
+`$ sudo pacman -Syu`
 
-	# Install Docker
-    
-    $ sudo pacman -S docker
+`$ sudo pacman -S docker`
     
 ####### Config auto login and auto wifi
 
