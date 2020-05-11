@@ -1,11 +1,9 @@
+#### Preparation
+
 Before you editing your contents, you have to meke some preparation. Here are my configatations.
 
 1. [Run Raspberry Pi 3 B Plus as a Desktop with Kiosk Chromium Browser](/man/prep/raspi3/)
 2. [Setup a Server run Arch Linux and install docker on a USB Disk](/man/prep/server/)
-
-
-An intension here is to run Linux with Raspberry Pi 3 B plus  which
-
 
 A linux Desktop
 1. web browser in kiosk mode
@@ -18,14 +16,14 @@ We have to make clear the purpose of being digital in business, and be aware of 
 
 About Digital
 
-Website
+#### Website
 
-ERP
+#### ERP
 
 Some regular questions regarding Cloud and Analytics
 
-Cloud
+#### Cloud
 
-Analytics
+#### Analytics
 
 It is crucial part we use data to monitor our business, use data either help us to improve competition or bust saleswith online advertising.
