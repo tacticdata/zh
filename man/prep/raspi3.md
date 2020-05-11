@@ -1,3 +1,12 @@
+---
+title: null
+subtitle: Manual
+hero_height: is-small
+layout: page
+hero_image: /img/sitev1.0/homeen.jpg
+published: true
+---
+
 The features achieved should be 
 
 - a SSH interface to log in other server, it's a basic feature for developer.
