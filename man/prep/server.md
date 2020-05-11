@@ -44,5 +44,7 @@ Only a slightly different,when in `pacstrap` change instead
     $ sudo netctl list
     # make a profile accordingly
     # start wifi at boot
+    $ sudo wifi-menu -o 
+    ## connect wifi
     $ sudo netctl enable profile
     $ sudo reboot
