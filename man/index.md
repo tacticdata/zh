@@ -10,6 +10,7 @@ published: true
 Before you editing your web pages, you have to meke some preparation. Here are my configatations.
 
 1. [Run Raspberry Pi 3 B Plus as a Desktop with Kiosk Chromium Browser](/man/prep/raspi3/)
+2. [Setup a Server run Arch Linux and install docker on a USB Disk](/man/prep/server/)
 
 An intension here is to run Linux with Raspberry Pi 3 B plus  which
 
