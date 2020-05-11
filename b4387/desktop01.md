@@ -1,4 +1,4 @@
-Raspberry Pi B 3 plus as a desktop, finaly you will get 
+The features achieved should be 
 
 - a SSH interface to log in other server, it's a basic feature for developer.
 - a web browser which we use default Raspbian web browser Chromium, open at boot as kiosk mode.
@@ -22,17 +22,19 @@ Step 2: Boot the Raspberry Pi, log in as user 'pi' and password 'raspberry', run
 - Boot Options: Select “Desktop / CLI” and then “Console Autologin”. 
 - Interfacing Options: Enable SSH access if needed.
 
-Step 3: Update
+update
 
 Run $ sudo apt update
 
-Step 4: Install required softwares.
+You will get a SSH and a Command Line inetrface. 
+
+Step 3: Install required softwares.
 
 Run $ sudo apt-get install --no-install-recommends xserver-xorg x11-xserver-utils xinit openbox
 
 $ sudo apt-get install --no-install-recommends chromium-browser
 
-Step 5: Edit the kiosk mode.
+Step 4: Edit the kiosk mode.
 
 $ sudo nano /etc/xdg/openbox/autostart
 
@@ -52,10 +54,14 @@ $ sudo nano /etc/xdg/openbox/autostart
 	# You can set url like 'https://www.google.com' or 'about:blank' whatever you want to open.
     # Exit kiosk mode with CTRL-ATL-Backspace
     
-Step 6: startx automatically on boot
+Step 5: startx automatically on boot
 
 `$ sudo nano .bash_profile`, add the following content then save.
 	
 	[[ -z $DISPLAY && $XDG_VTNR -eq 1 ]] && startx
 
  Next time,reboot computer, you will get a koisk moder browser open automatically on boot, when browser open and load, just click Ctrl-N to open a new window.
+
+Step 6: Use online editor
+
+Use http://prose.io to edit contents integrated with your github.com account.
