@@ -53,6 +53,7 @@ $ sudo nano /etc/xdg/openbox/autostart
     # Caution:
 	# You can set url like 'https://www.google.com' or 'about:blank' whatever you want to open.
     # Exit kiosk mode with CTRL-ATL-Backspace
+    # Restart with 'startx' in command line interface.
     
 Step 5: startx automatically on boot
 
