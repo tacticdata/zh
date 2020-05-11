@@ -1,12 +1,3 @@
----
-title: null
-subtitle: Manual
-hero_height: is-small
-layout: page
-hero_image: /img/sitev1.0/homeen.jpg
-published: true
----
-
 Before you editing your web pages, you have to meke some preparation. Here are my configatations.
 
 1. [Run Raspberry Pi 3 B Plus as a Desktop with Kiosk Chromium Browser](/man/prep/raspi3/)
