@@ -24,7 +24,7 @@ Step 2: Boot the Raspberry Pi, log in as user 'pi' and password 'raspberry', run
 
 update
 
-Run $ sudo apt update
+Run '$ sudo apt update'
 
 You will get a SSH and a Command Line inetrface. 
 
