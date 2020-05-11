@@ -1,4 +1,4 @@
-Before you editing your web pages, you have to meke some preparation. Here are my configatations.
+Before you editing your contents, you have to meke some preparation. Here are my configatations.
 
 1. [Run Raspberry Pi 3 B Plus as a Desktop with Kiosk Chromium Browser](/man/prep/raspi3/)
 
