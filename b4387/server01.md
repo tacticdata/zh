@@ -5,3 +5,5 @@ Follow the tutorials:
 http://valleycat.org/linux/arch-usb.html
 
 Only a slightly different,when in 
+
+`pacstrap -i /mnt/usb linux linux-firmware base base-devel nano openssh wpa_supplicant dhcpcd ppp dialog netctl sudo`
