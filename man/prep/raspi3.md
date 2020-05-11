@@ -36,7 +36,7 @@ $ sudo apt-get install --no-install-recommends chromium-browser
 
 Step 4: Edit the kiosk mode.
 
-$ sudo nano /etc/xdg/openbox/autostart
+`$ sudo nano /etc/xdg/openbox/autostart`
 
     # Disable any form of screen saver / screen blanking / power management
     xset s off
