@@ -67,4 +67,4 @@ hero_image: /img/imgpath.jpg
 published: true
 ---
 
-
+It will appear on the beginning section of a page,  we will introduct along with content page.
