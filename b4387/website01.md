@@ -53,6 +53,13 @@ It will appear on the beginning section of a page,  we will introduct along with
 - next to the `formator`, there appears content, write as you will
 - the path equal to url,the content page should be in .md eg. markdown format,  if you want to put page on root level,you can put on root,along side with index.md, if you want to put on second level, put the page in a folder, for example, https://yourusername.github.io/example-folder/example-page.htm access `example-page` in `example-folder` folder, that is defined by _config.yml on permalink: pretty with format as /example-folder/example-page/
 
+#### custom domain name
+
+- step 1: You have to buy a domain name, surpose it is called 'example.com', you want to visit via 'www.example.com', for instance, the domain name we use cost about USD 6.00 first year, may slighly higher next year.
+- step 2: login your github.com account
+- step 3: go to `Settings` --> 
+
+
 #### The structure of a website
 
 - Methodology
@@ -75,5 +82,3 @@ A content page is the fundamental element, depend on the content it purposes for
 - The website will not automatically bring traffic
 - The best way to promote is through online advertising
 - It apply the nature of competition in business
-
-
