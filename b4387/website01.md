@@ -58,14 +58,14 @@ The color of the navigation bar settings locate at assets/css/app.scss, mentione
 
 mentioned in called `formator` like this:
 
----
-title: 
-subtitle: some-headline
-hero_height: is-medium
-hero_image: /img/imgpath.jpg
-layout: page
-published: true
----
+    ---
+    title: 
+    subtitle: some-headline
+    hero_height: is-medium
+    hero_image: /img/imgpath.jpg
+    layout: page
+    published: true
+    ---
 
 It will appear on the beginning section of a page,  we will introduct along with content page.
 
