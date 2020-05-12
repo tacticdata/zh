@@ -4,13 +4,13 @@ To build a similar webste https://www.hilltopsight.com, with a navigation bar, a
 
 The intention here is set this website as mostly a land page, when you do online advertising like Google Ads or Facebook Ads to point to the landing page, then you mention the details on the landing page, and monitoring the visiting data to your landing page,by connect your website with Google Analytics, to comparing with your history data, you sales performences, you will get a conclution whether your sales volumns,your new costumers acquisitions and media selection as wuch as you expected.That finish an online sale loop.
 
-#### Build a website on github.com
+#### Login to github.com
 
 You have to have a [github.com](https://github.com/) account, or go to [sign up](https://github.com/) one for free.
 
 #### Template of website
 
-Copy "bulma clean rheme" by click 'Fork' https://github.com/chrisrhymes/bulma-clean-theme
+Copy "bulma clean rheme" by click 'Fork'(on top right of the screen) https://github.com/chrisrhymes/bulma-clean-theme
 
 #### Configure website
 
@@ -21,4 +21,15 @@ Copy "bulma clean rheme" by click 'Fork' https://github.com/chrisrhymes/bulma-cl
 	google_analytics: UA-xxxxxxxxxxx
 
 You can visit website by https://yourusername.github.io
+
+#### The structure of a website
+
+- Methodology
+
+modular, 
+
+- Structure
+	- navigation bar
+    - image hero
+    - content page
 
