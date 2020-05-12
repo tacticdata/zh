@@ -10,4 +10,9 @@ You have to have a [github.com](https://github.com/) account, or go to [sign up]
 
 #### Template of website
 
+Copy "bulma clean rheme" by click 'Fork' https://github.com/chrisrhymes/bulma-clean-theme
 
+#### Configure website
+
+1. change neme of your website repository by 'Settings' --> 'Repository name' to yourusername.github.io -->  click 'Rename' button
+2. set up _config.yml, 
