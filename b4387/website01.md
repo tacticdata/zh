@@ -21,29 +21,6 @@ Copy "bulma clean rheme" by click 'Fork'(on top right of the screen) https://git
 	google_analytics: UA-xxxxxxxxxxx
 3. You can visit website by https://yourusername.github.io
 
-#### The structure of a website
-
-- Methodology
-
-	- modular
-    - layers
-    - data in mind
-    
-Inmagine every elements in website can be assembled.
-
-- Structure
-	- navigation bar
-    - image hero
-    - content page
-    
-A content page is the fundamental element, depend on the content it purposes for.
-
-#### The object of  website
-
-- The website will not automatically bring traffic
-- The best way to promote is through online advertising
-- It apply the nature of competition in business
-
 #### navigation bar
 
 - Location: root --> _data --> navigation.yml
@@ -75,5 +52,28 @@ It will appear on the beginning section of a page,  we will introduct along with
 - the image hero or image next to navigation bar will be defined on `formator` , example formator shown in last paragraph.
 - next to the `formator`, there appears content, write as you will
 - the path equal to url,the content page should be in .md eg. markdown format,  if you want to put page on root level,you can put on root,along side with index.md, if you want to put on second level, put the page in a folder, for example, https://yourusername.github.io/example-folder/example-page.htm access `example-page` in `example-folder` folder, that is defined by _config.yml on permalink: pretty with format as /example-folder/example-page/
+
+#### The structure of a website
+
+- Methodology
+
+	- modular
+    - layers
+    - data in mind
+    
+Inmagine every elements in website can be assembled.
+
+- Structure
+	- navigation bar
+    - image hero
+    - content page
+    
+A content page is the fundamental element, depend on the content it purposes for.
+
+#### The object of  website
+
+- The website will not automatically bring traffic
+- The best way to promote is through online advertising
+- It apply the nature of competition in business
 
 
