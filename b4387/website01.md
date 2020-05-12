@@ -62,9 +62,13 @@ mentioned in called `formator` like this:
 title: 
 subtitle: some-headline
 hero_height: is-medium
-layout: page
 hero_image: /img/imgpath.jpg
+layout: page
 published: true
 ---
 
 It will appear on the beginning section of a page,  we will introduct along with content page.
+
+#### content page
+
+- the image hero or image next to navigation bar will be defined on `formator` , example formator shown before,
