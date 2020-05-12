@@ -73,5 +73,5 @@ It will appear on the beginning section of a page,  we will introduct along with
 
 - the image hero or image next to navigation bar will be defined on `formator` , example formator shown before
 - next to the `formator`, there appears content, write as you will
-- the path equal to url,the content page should be in .md eg. markdown format,  if you want to put on root level,you can put on root,along side with index.md, if you want to put on second level, put the page in a folder, for example, https://yourusername.github.io/example-folder/example-page.htm access `example-page` in `example-folder` folder, that is defined by _config.yml permalink: pretty with format  /example-folder/example-page/
+- the path equal to url,the content page should be in .md eg. markdown format,  if you want to put on root level,you can put on root,along side with index.md, if you want to put on second level, put the page in a folder, for example, https://yourusername.github.io/example-folder/example-page.htm access `example-page` in `example-folder` folder, that is defined by _config.yml on permalink: pretty with format  /example-folder/example-page/
 
