@@ -39,5 +39,6 @@ A content page is the fundamental element, depend on the content it purposes for
 
 #### The object of  website
 
-
-
+- The website will not automatically bring traffic
+- The best way to promote is through online advertising
+- It apply the nature of competition in business
