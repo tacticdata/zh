@@ -27,6 +27,8 @@ You can visit website by https://yourusername.github.io
 - Methodology
 
 	- modular
+    - layers
+    - data in mind
     
 Inmagine every elements in website can be assembled.
 
