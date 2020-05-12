@@ -15,4 +15,7 @@ Copy "bulma clean rheme" by click 'Fork' https://github.com/chrisrhymes/bulma-cl
 #### Configure website
 
 1. change neme of your website repository by 'Settings' --> 'Repository name' to yourusername.github.io -->  click 'Rename' button
-2. set up _config.yml, 
+2. set up _config.yml, by clicking the file under root location, 
+	baseurl: ""
+    url: "https://yourusername.github.io"
+	google_analytics: UA-xxxxxxxxxxx
