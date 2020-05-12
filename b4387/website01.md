@@ -26,10 +26,18 @@ You can visit website by https://yourusername.github.io
 
 - Methodology
 
-modular, 
+	- modular
+    
+Inmagine every elements in website can be assembled.
 
 - Structure
 	- navigation bar
     - image hero
     - content page
+    
+A content page is the fundamental element, depend on the content it purposes for.
+
+#### The object of  website
+
+
 
