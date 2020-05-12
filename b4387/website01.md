@@ -42,3 +42,11 @@ A content page is the fundamental element, depend on the content it purposes for
 - The website will not automatically bring traffic
 - The best way to promote is through online advertising
 - It apply the nature of competition in business
+
+#### navigation bar
+
+Location: root --> _data --> navigation.yml
+
+You can edit as much as you need,be careful the format
+
+The color of the navigation bar settings locate at assets/css/app.scss, mentioned in bulma-clean-theme documentation(https://github.com/chrisrhymes/bulma-clean-theme#sidebar-visibility)
