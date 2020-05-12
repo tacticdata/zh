@@ -57,7 +57,10 @@ It will appear on the beginning section of a page,  we will introduct along with
 
 - step 1: You have to buy a domain name, surpose it is called 'example.com', you want to visit via 'www.example.com', for instance, the domain name we use cost about USD 6.00 first year, may slighly higher next year.
 - step 2: login your github.com account
-- step 3: go to `Settings` --> 
+- step 3: go to `Settings` --> `Custom domain` put www.example.com in the box then `Save`, the github automatically create a file under root called 'CNAME'
+- step 4: go to set up DNS CNAME redirection,surpose to be like www.example.com redirect to yourusername.github.io
+- step 5: check `Settings` --> `Enforce HTTPS` 
+- step 6: access website with https://www.example.com
 
 
 #### The structure of a website
