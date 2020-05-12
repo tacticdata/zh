@@ -45,8 +45,16 @@ A content page is the fundamental element, depend on the content it purposes for
 
 #### navigation bar
 
-Location: root --> _data --> navigation.yml
+- Location: root --> _data --> navigation.yml
 
 You can edit as much as you need,be careful the format
 
 The color of the navigation bar settings locate at assets/css/app.scss, mentioned in bulma-clean-theme [documentation](https://github.com/chrisrhymes/bulma-clean-theme#sidebar-visibility)
+
+- title: Appear on top left of navigation bar and as website title, locate as `title` in _config.yml
+- `Home` location: root --> _includs --> header.html line number 16
+
+
+#### image hero
+
+
