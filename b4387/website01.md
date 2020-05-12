@@ -19,3 +19,6 @@ Copy "bulma clean rheme" by click 'Fork' https://github.com/chrisrhymes/bulma-cl
 	baseurl: ""
     url: "https://yourusername.github.io"
 	google_analytics: UA-xxxxxxxxxxx
+
+You can visit website by https://yourusername.github.io
+
