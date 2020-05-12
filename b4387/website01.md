@@ -19,8 +19,7 @@ Copy "bulma clean rheme" by click 'Fork'(on top right of the screen) https://git
 	baseurl: ""
     url: "https://yourusername.github.io"
 	google_analytics: UA-xxxxxxxxxxx
-
-You can visit website by https://yourusername.github.io
+3. You can visit website by https://yourusername.github.io
 
 #### The structure of a website
 
