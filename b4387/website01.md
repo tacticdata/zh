@@ -54,7 +54,17 @@ The color of the navigation bar settings locate at assets/css/app.scss, mentione
 - title: Appear on top left of navigation bar and as website title, locate as `title` in _config.yml
 - `Home` location: root --> _includs --> header.html line number 16
 
-
 #### image hero
+
+mentioned in called `formator` like this:
+
+---
+title: 
+subtitle: some-headline
+hero_height: is-medium
+layout: page
+hero_image: /img/imgpath.jpg
+published: true
+---
 
 
