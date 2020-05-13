@@ -57,6 +57,12 @@ It will appear on the beginning section of a page,  we will introduct along with
 
 In case you want to host the github.com repository to Netlify.com, there are few steps:
 
+- step 1: login with github account by Login https://app.netlify.com/  click `Github` --> `New site from Git` --> `Github` --> `Select from specific repository` --> yourusername/yourusername.github.io --> `Build options, and deploy!`
+- step 2: Before you click `Depoy site` button, 
+		- add following line `gem 'github-pages'` below `source "https://rubygems.org"` on `Gemfile`
+        - create a `.ruby-version` on rooot then fill `2.4.3`in it
+        - refer to: https://www.netlify.com/blog/2017/05/11/migrating-your-jekyll-site-to-netlify/
+- step 3: click `Depoy site` button, disable block ads extension if availible.
 
 #### custom domain name
 
