@@ -1,9 +1,9 @@
 ---
 title: Tutorials
 subtitle: 
-hero_image: /img/sitev1.0/home07.jpg
-published: true
+hero_image: "/img/sitev1.0/home07.jpg"
 ---
+
 <!-- callouts: home_callouts -->
 
 Digitalization means to represent with metrics instead monitoring by your own eyes, you have to understand business through metrics, software to make your business digital and the organization align with digital reality, the fierce competition force us to do so.

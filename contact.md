@@ -2,8 +2,7 @@
 title: Contact Us
 subtitle: 
 layout: page
-hero_image: /img/sitev1.0/homeen.jpg
-published: true
+hero_image: "/img/sitev1.0/homeen.jpg"
 ---
 
 ### Please contact us if you are intesrted 

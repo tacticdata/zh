@@ -1,10 +1,8 @@
 ---
-title: null
 subtitle: Run Raspberry Pi 3 B Plus as a Desktop with Kiosk Chromium Browser
 hero_height: is-small
 layout: page
-hero_image: /img/sitev1.0/homeen.jpg
-published: true
+hero_image: "/img/sitev1.0/homeen.jpg"
 ---
 
 The features achieved should be 

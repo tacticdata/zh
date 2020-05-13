@@ -1,7 +1,6 @@
 ---
-published: true
-title:  Data tells the truth
-date:   2019-11-08
+title: Data tells the truth
+date: 2019-11-08 00:00:00 Z
 layout: page
 hide_hero: true
 ---

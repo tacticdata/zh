@@ -1,10 +1,11 @@
 ---
+title: 认识数据
+date: 2019-11-08 00:00:00 Z
+categories:
+- blog
 layout: post
-title:  "认识数据"
-categories: blog
-hero_image: /img/road1.jpg
-image: /img/road1.jpg
-published: true
+hero_image: "/img/road1.jpg"
+image: "/img/road1.jpg"
 ---
 
 ###### 为什么要使用数据

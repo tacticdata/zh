@@ -1,10 +1,8 @@
 ---
-title: 
 subtitle: 企業為什要追求數位化
 hero_height: is-small
-hero_image: /img/sitev1.0/homeen.jpg
+hero_image: "/img/sitev1.0/homeen.jpg"
 layout: page
-published: true
 ---
 
 幾乎每個企業在數位化的路上充滿不適，這不舒適來自Internet引發競爭加劇，有很多原因企業可以怪罪，Inernet是最明顯的原因。另外，變化本身也是企業不適的一個原因，告別熟悉的習慣，迎接新的不確定的未來本身就是一個挑戰，因變化而不適屬於正常。這也告訴我們數位化的過程是痛苦而艱難，但停滯不動意味對手超越，那意味著死亡，商業意義上的。變化是不可避免的。

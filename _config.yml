@@ -1,66 +1,58 @@
-# Site Settings
-title: hilltopsights.com  #Bulma Clean Theme
-tagline: #Bulma Clean Theme
-email: your-email@domain.com
-# description: >
-#  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: ""
-url: "https://tacticdata.github.io"
-permalink: pretty
-
-paginate: 5
-paginate_path: "/blog/page:num"
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-feed
-  - jekyll-seo-tag
-  - kramdown
-  - rouge
-
-exclude: 
-  - Gemfile
-  - clean-theme.gemspec
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-
-livereload: true
-
-sass:
-  style: compressed
-  source_dir: _sass
-
-google_analytics: UA-161623035-1
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      show_sidebar: false
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      # author: "C.S. Rhymes"
-      layout: post
-      # image: https://via.placeholder.com/1200x800
-      show_sidebar: false
-
-markdown: kramdown
-highlighter: rouge
-
-# footer_menu: example_footer_menu
-
+---
+title: hilltopsights.com
+timezone: UTC
 collections:
-  products: 
+  posts:
+    title: Posts
+    output: true
+  products:
+    title: Products
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    show_sidebar: false
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    show_sidebar: false
+tagline: 
+email: your-email@domain.com
+baseurl: ''
+url: https://tacticdata.github.io
+permalink: pretty
+paginate: 5
+paginate_path: "/blog/page:num"
+plugins:
+- jekyll-sitemap
+- jekyll-paginate
+- jekyll-feed
+- jekyll-seo-tag
+- kramdown
+- rouge
+exclude:
+- Gemfile
+- clean-theme.gemspec
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+livereload: true
+sass:
+  style: compressed
+  source_dir: _sass
+google_analytics: UA-161623035-1
+markdown: kramdown
+highlighter: rouge

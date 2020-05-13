@@ -2,9 +2,9 @@
 title: 如何使用数据
 subtitle: 数据帮助企业管理
 layout: page
-hero_image: /img/sitev1.0/homecn.jpg
-published: true
+hero_image: "/img/sitev1.0/homecn.jpg"
 ---
+
 <!-- callouts: home_callouts -->
 
 

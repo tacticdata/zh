@@ -1,12 +1,9 @@
 ---
-title:  方案的构成
-date:   2019-11-12
-published: true
+title: 方案的构成
+date: 2019-11-12 00:00:00 Z
 layout: page
 hide_hero: true
 ---
-
-
 
 ### 方案的构成
 

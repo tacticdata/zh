@@ -1,10 +1,8 @@
 ---
-title: null
 subtitle: Setup a Server run Arch Linux and install docker on a USB Disk
 hero_height: is-small
 layout: page
-hero_image: /img/sitev1.0/homeen.jpg
-published: true
+hero_image: "/img/sitev1.0/homeen.jpg"
 ---
 
 In order to build a development evironment for website and docker, set a USB disk to pick up Arch Linux and docker installed.

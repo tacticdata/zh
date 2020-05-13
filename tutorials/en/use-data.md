@@ -1,7 +1,6 @@
 ---
-published: true
-title:  How to use data
-date:   2019-11-11
+title: How to use data
+date: 2019-11-11 00:00:00 Z
 layout: page
 hide_hero: true
 ---

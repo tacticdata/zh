@@ -1,10 +1,11 @@
 ---
+title: 隐私是数字时代的基石
+date: 2019-11-08 00:00:00 Z
+categories:
+- blog
 layout: post
-title:  隐私是数字时代的基石
-categories: blog
-hero_image: /img/blog-img/forest01.jpg
-image: /blog-menu/forest02.jpg
-published: true
+hero_image: "/img/blog-img/forest01.jpg"
+image: "/blog-menu/forest02.jpg"
 ---
 
 最近，读了两篇关于隐私的文章，很有启发。
