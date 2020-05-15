@@ -4,7 +4,7 @@ Finally you will get an website with costum domain name and https url, you have 
 
 #### Login to github.com
 
-You have to have a [github.com](https://github.com/) account, or go to [sign up](https://github.com/) one for free.
+You have to sign in [github.com](https://github.com/) account, or go to [sign up](https://github.com/) one for free.
 
 #### Template of website
 
