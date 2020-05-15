@@ -1,5 +1,5 @@
 ---
-subtitle: About Us
+subtitle: How to Achieve
 hero_height: is-medium
 layout: page
 hero_image: "/img/indeximg7.jpg"
