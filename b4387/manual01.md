@@ -10,7 +10,7 @@ The low cost digital solution is either in demands and trends, the technology as
 
 Before you editing your contents, you have to meke some preparation. Here are my configatations.
 
-1. [Run Raspberry Pi 3 B Plus as a Desktop with Kiosk Chromium Browser](/man/prep/raspi3/)
+1. [Run Raspberry Pi 3 B Plus as a Desktop](/man/prep/raspi3/)
 
     What we want to get finally:
 
