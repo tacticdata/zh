@@ -5,10 +5,11 @@ Before you editing your contents, you have to meke some preparation. Here are my
 1. [Run Raspberry Pi 3 B Plus as a Desktop with Kiosk Chromium Browser](/man/prep/raspi3/)
 2. [Setup a Server run Arch Linux and install docker on a USB Disk](/man/prep/server/)
 
-A linux Desktop
-1. web browser in kiosk mode
-2. online text editing integrated with github.com
-3. command line with SSH
+What we want to get finally:
+
+1. A web browser
+2. An online text editor
+3. Command line and SSH
 
 #### Digital Overview
 
