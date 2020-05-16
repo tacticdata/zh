@@ -1,3 +1,7 @@
+We are in changing time, either we like or dislike, we know the reason is internet. The digital in business is unavoideable. Hereafter we provide a low cost digital business solution, 
+
+On first part, we will introduce how to built these 
+
 #### Digital Overview
 
 Digital is a term related to inetrnet in business practices, big company has different approaches with small company.
