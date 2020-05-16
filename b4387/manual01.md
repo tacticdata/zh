@@ -1,6 +1,6 @@
-We are in changing time, either we like or dislike, we know the reason is internet. The digital in business is unavoideable. Hereafter we provide a low cost digital business solution, 
+We are in changing time, either we like or dislike, we know the reason is internet. The digital in business is unavoideable. Hereafter we provide a low cost digital business solution, the main different with traditional business is digital business need applications.
 
-On first part, we will introduce how to built these 
+On first part, we will introduce how to built these applications. on second part, we will introduce how to apply with your existing business practices.
 
 #### Digital Overview
 
