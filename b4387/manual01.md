@@ -1,5 +1,11 @@
 #### Digital Overview
 
+Digital is a term related to inetrnet in business practices, big company has different approaches with small company.
+
+Digital Look like they are next generation comparing with traditional methods in business, for example, you are hardly to see a man with sword fight a man with rifle. That is due to generation gap what happened in digital in business field. It means digital in business is unavoidable.
+
+The low cost digital solution is either in demands and trends, the technology aspect of this trend emerged including cloud and docker, the more fierce competition push the trend.[Read more](/man/digital/)
+
 #### Preparation
 
 Before you editing your contents, you have to meke some preparation. Here are my configatations.
