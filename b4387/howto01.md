@@ -2,8 +2,7 @@
 subtitle: About Us
 hero_height: is-medium
 layout: page
-hero_image: /img/indeximg7.jpg
-published: true
+hero_image: "/img/indeximg7.jpg"
 ---
 
 Digital process is just in its beginning stage,and  digital show their advantage compare to traditional bbusiness pratices, so as an aftermatch, every business which want to survive have to go digital without hesitation.Digital is unavoid path we must go through.
