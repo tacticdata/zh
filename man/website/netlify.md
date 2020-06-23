@@ -1,3 +1,10 @@
+---
+subtitle: Buid a Free Website on Neilify.com
+hero_height: is-small
+layout: page
+hero_image: "/img/sitev1.0/homeen.jpg"
+---
+
 Another alternative, you can host website on https://www.netlify.com/ for free.
 
 Finally you will get an website with costum domain name and https url, you have to buy an domain name,and point to your netlify website on your DNS manager settings.
