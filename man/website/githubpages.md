@@ -1,3 +1,10 @@
+---
+subtitle: Build a Free Github Website
+hero_height: is-small
+layout: page
+hero_image: "/img/sitev1.0/homeen.jpg"
+---
+
 #### Build a website like this
 
 To build a similar webste https://www.hilltopsight.com, with a navigation bar, an image called "hero image" and a content page, almost free on github.com.
