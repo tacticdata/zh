@@ -6,7 +6,7 @@ hero_image: "/img/indeximg8.jpg"
 hero_height: is-large
 ---
 
-Digitization may be the biggest event in this generation, read [digitization overview]() first.
+Digitization may be the biggest event in this generation, read [digitization overview](/man/digit/overview/) first.
 
 There are two options,
 
