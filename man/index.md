@@ -5,9 +5,9 @@ layout: page
 hero_image: "/img/sitev1.0/homeen.jpg"
 ---
 
-Tradition business practice was based on experience, experiences means time usally cost much, we did in digital practice, business performance often are measured by metric which cheap and easilly achieved. [Read more details on digitization.](/man/digit/overview/)
+Tradition business practice was based on experience, experiences means time usally cost much, we did in digital practice, business performance often are measured by metric which cheap and easilly achieved. 
 
-In a competition context, that appears more crucial,digital practice has big advantage over its traditional rival.
+In a competition context, that appears more crucial,digital practice has big advantage over its traditional rival.[Read more details on digitization.](/man/digit/overview/)
 
 Before you editing your web pages, you have to meke some preparation. Here are my configatations.
 
