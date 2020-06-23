@@ -6,21 +6,26 @@ hero_image: "/img/indeximg8.jpg"
 hero_height: is-large
 ---
 
-#### Digital need softwares
+Digitization may be the biggest event in this generation, read [digitization overview]() first.
 
-The digital business practices need softwares, basicly website and erp compose a company's digital need, we presume  that you already have had website,if you don't have had a website, we provide a tutorial on how to make a free website on github, our solution mainly focus on ERP application.
+There are two options,
 
-#### Digital path need technology support
+#### Option 1, Do it Yourself, Free
 
-Digital business  practices need technology support, your business knowledges plus technology support mainly regarding softwares support lead to possible success.  
+includ:
 
-#### We provide 3 options 
+- Online documantation for applications instlling.
+- Cloud strategy online documantation support.
+- Cloud and digital use cases online documantation support.
 
-You can choose to build applications by yourself refer to [the Documentations](/man/), it is free of charge. We welcome you to [consult us](/contact/).
+#### Option 2, Supported by Mail, Price: USD 3000
+​
+Includ:
 
-You may buy ERP application from us as part of digital service  at **USD 2000**, it includes Open Source ERP either with a regular web interface or a Point of Sale for store use, the ERP application include Purchase, Sale, Wharehouse modulars, you can try those features on https://demo.odoo.com.
-You can have users with no limit. You can see what you get from [Demo](/demo/sale/)
-
-Futher more, you can also choose to use our consulting service alone with second option at **USD 4000** total.
+- Cloud deployment for applications.
+- Use case for digital business practice
+- Advices on reconstructure on digital practice.
+- Cloud strategy.
+- Newsletter for use cases.
 
 #### Please [contact us](/contact/) if you are intereasting
