@@ -1,3 +1,10 @@
+---
+subtitle: Digitization Overview
+hero_height: is-small
+layout: page
+hero_image: "/img/sitev1.0/homeen.jpg"
+---
+
 Digitization means everything related to internet. 
 
 We might see a greatest changes in business, called "digital transformation", this generation.
