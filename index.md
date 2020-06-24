@@ -18,15 +18,15 @@ There are two options around those two applications, that are our solution focus
 
 #### Option 1, Do it Yourself, Free
 
-includ:
+Include:
 
-- Online documantation for applications instlling.
+- Online documantation for applications installing.
 - Cloud strategy online documantation support.
 - Cloud and digital use cases online documantation support.
 
 #### Option 2, Supported by Contact, Price: USD 3000
 ​
-Includ:
+Include:
 
 - Cloud deployment for applications.
 - Use case for digital business practice
