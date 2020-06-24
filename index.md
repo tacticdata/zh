@@ -24,7 +24,7 @@ includ:
 - Cloud strategy online documantation support.
 - Cloud and digital use cases online documantation support.
 
-#### Option 2, Supported by Mail, Price: USD 3000
+#### Option 2, Supported by Contact, Price: USD 3000
 ​
 Includ:
 
