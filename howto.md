@@ -2,10 +2,11 @@
 subtitle: How to Achieve
 hero_height: is-medium
 layout: page
-hero_image: "/img/indeximg7.jpg"
+hero_image: /img/indeximg7.jpg
+published: true
 ---
 
-The digital business is like a traditional business add up a digital business cap, the base elements in business still unchanged, like motivation of doing business remain, but the methods of doing business forcefully changed by internet.
+The digital business is like a traditional business add up a digital business cap, the base elements in business still unchanged, like motivation of doing business remain unchanged, but the methods of doing business forcefully changed by internet.
 
 - Digital vs Traditional
 
