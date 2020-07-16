@@ -15,7 +15,7 @@ Digital is a term refer to internet impact. Digital in business try to meansure 
 
 There are huge demands among digital business practces, especially after worldwide lockdown, the tradition business pratices don't work anymore, for example the regulation of social distancing distroy the offline sale industry,especially retail shops. So the market demand an affordable solution for digital transfermation.
 
-To help business to transfer from tradition to digital, not only for big businesses but also for small businesses, because the demands exist same, but he route differ. Like Nicholas Carr predict in [IT Doesn't Matter](https://www.icto.info/Article11.pdf)
+To help business to transfer from tradition to digital, not only for big businesses but also for small businesses, because the demands exist same, but the route differ. Like Nicholas Carr predict in [IT Doesn't Matter](https://www.icto.info/Article11.pdf)
 
 > Because  most  business  activities  and processes  have  come  to  be  embedded in software, they become replicable, too. When  companies  buy  a  generic  application, they  buy  a  generic  process  as well. Both  the  cost  savings  and  the  interoperability  benefits  make  the  sacrifice of distinctiveness unavoidable.
 
