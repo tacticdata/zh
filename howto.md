@@ -7,11 +7,11 @@ hero_image: "/img/indeximg7.jpg"
 
 The digital business is like a traditional business add up a digital business cap, the base elements in business still unchanged, like motivation of doing business remain unchanged, but the methods of doing business forcefully changed by internet.
 
-- Digital vs Traditional
+- **Digital vs Traditional**
 
 Digital is a term refer to internet impact. Digital in business try to meansure business by metrics,thus digital practices require applications to help when use those metrics. But tradition businesses rely on experiences and investments, for instance, tradition business often employ someone with specific skill to do something, sometime it is expensive to hire specific skill, also Digital practices made advertising easy to get and cheap, comparing with traditonal business, digital business have a great advantage, either in cost effective or in advertising, under the competition condition, for business surviving, digital business is a generation ahead of tradition business.       
 
-- The IT Price Will Go Down
+- **The IT Price Will Go Down**
 
 There are huge demands among digital business practces, especially after worldwide lockdown, the tradition business pratices don't work anymore, for example the regulation of social distancing distroy the offline sale industry,especially retail shops. So the market demand an affordable solution for digital transfermation.
 
@@ -19,7 +19,7 @@ To help business to transfer from tradition to digital, not only for big busines
 
 > Because  most  business  activities  and processes  have  come  to  be  embedded in software, they become replicable, too. When  companies  buy  a  generic  application, they  buy  a  generic  process  as well. Both  the  cost  savings  and  the  interoperability  benefits  make  the  sacrifice of distinctiveness unavoidable.
 
-- Cloud is Rising
+- **Cloud is Rising**
 
 You can treate cloud as a server with a public IP address or comerciallize the computing resource to make the price affordable.
 
