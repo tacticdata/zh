@@ -27,8 +27,8 @@ sign up an gmail email account will automatically have a Google Analytics person
 
 [How to use Google Analytics to evalue the outcome I did from an advertising compaign](https://www.hilltopsight.com/man/analytics)
 
-[Host a website on github.com(github pages) for free, apply a custom domain name and https](/man/site-github/)
+[Host a website on github.com(github pages) for free, apply a custom domain name and https](/man/site/githubpages/)
 
-[Host a website on netlify.com for free, apply a cutom domain name and https](/man/site-netlify/)
+[Host a website on netlify.com for free, apply a cutom domain name and https](/man/site/netlify/)
 
 On Proccessing...
