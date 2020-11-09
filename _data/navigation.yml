@@ -20,10 +20,10 @@
 #  link: /index-en/ 
 #- name: 数据
 #  link: /tutorials/zh/tutorials/
-- name: How to Achieve
-  link: /howto/
-- name: Contact Us
-  link: /contact/
+#- name: How to Achieve
+# link: /howto/
+#- name: Contact Us
+#  link: /contact/
 #- name: Tutorials
 #  link: /tutorials/en
 #- name: Facebook Group
@@ -32,9 +32,11 @@
 #  link: /en/
 #- name: Blog
 #  link: /blog/
-- name: Demo
-  link: /demo/sale/
-- name: Manual
-  link: /man/
+#- name: Demo
+#  link: /demo/sale/
+#- name: Manual
+#  link: /man/
 # - name: Docs (external)
 #   link: https://tacticlink.readthedocs.io/en/latest
+- name: 中文
+  link: https://zh.hilltopsight.com
