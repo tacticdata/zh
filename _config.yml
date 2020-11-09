@@ -28,8 +28,8 @@ defaults:
     show_sidebar: false
 tagline: 
 email: your-email@domain.com
-baseurl: ''
-url: https://tacticdata.github.io
+baseurl: 'zh/'
+url: #https://tacticdata.github.io
 permalink: pretty
 paginate: 5
 paginate_path: "/blog/page:num"
