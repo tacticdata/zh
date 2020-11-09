@@ -29,7 +29,7 @@ defaults:
 tagline: 
 email: your-email@domain.com
 baseurl: '/zh'
-url: #https://tacticdata.github.io
+url: https://tacticdata.github.io
 permalink: pretty
 paginate: 5
 paginate_path: "/blog/page:num"
